@@ -38,5 +38,8 @@
     "leaflet.ajax": "^1.1.0",
     "leaflet.markercluster": "^1.0.4",
     "requirejs": "^2.3.3"
+  },
+  "devDependencies": {
+    "http-server": "^0.10.0"
   }
 }

@@ -2,30 +2,17 @@
 
 PCM Demo
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Simple proof of concwpt web-based demo of Cooks Children's Project dashboard interface for data discovery and filtering with map.
 
-### What is this repository for? ###
+### Getting Setup
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Project requires [NodeJS](https://nodejs.org/en/) be installed on your system first.
 
-### How do I get set up? ###
+```
+~/> git clone git@github.com:taoteg/pcm-web-demo.git
+~/> cd pcm-web-demo
+~/pcm-web-demo> npm install
+~/pcm-web-demo> http-server .
+```
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Open a browser to URL: [localhost:8080](http://localhost:8080)
