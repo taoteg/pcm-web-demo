@@ -2,7 +2,10 @@
 
 PCM Demo
 
-Simple proof of concwpt web-based demo of Cooks Children's Project dashboard interface for data discovery and filtering with map.
+Simple proof of concept web-based demo for Cooks Children's Project dashboard interface enabling data discovery and filtering with web map display.
+
+[Live Demo](http://129.114.6.130/)
+
 
 ### Getting Setup
 
