@@ -1,0 +1,2912 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.26420000000,32.97490000000 ]
+    },
+    "properties": {
+    "CONAME":"Oncology Rx Care Advantage",
+    "STREET":"Park Vista Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76177,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":40,
+    "SALESVOL":12563000,
+    "DESC_":"Oncology Rx Care Advantage, Park Vista Blvd, Fort Worth, Texas, 76177"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.26420000000,32.97490000000 ]
+    },
+    "properties": {
+    "CONAME":"Care Advantage",
+    "STREET":"Park Vista Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76177,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Care Advantage, Park Vista Blvd, Fort Worth, Texas, 76177"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.21900000000,32.79300000000 ]
+    },
+    "properties": {
+    "CONAME":"Texas Health Care Pharmacy",
+    "STREET":"Pebble Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76118,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":25,
+    "SALESVOL":7852000,
+    "DESC_":"Texas Health Care Pharmacy, Pebble Dr, Fort Worth, Texas, 76118"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.21300000000,32.79290000000 ]
+    },
+    "properties": {
+    "CONAME":"Texas Health Care Pharmacy",
+    "STREET":"Pebble Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76118,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Texas Health Care Pharmacy, Pebble Dr, Fort Worth, Texas, 76118"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.17130000000,32.76250000000 ]
+    },
+    "properties": {
+    "CONAME":"Walmart Pharmacy",
+    "STREET":"Anderson Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76120,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":8,
+    "SALESVOL":2512000,
+    "DESC_":"Walmart Pharmacy, Anderson Blvd, Fort Worth, Texas, 76120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.17200000000,32.76250000000 ]
+    },
+    "properties": {
+    "CONAME":"Sam's Club Pharmacy",
+    "STREET":"Anderson Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76120,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":6,
+    "SALESVOL":1884000,
+    "DESC_":"Sam's Club Pharmacy, Anderson Blvd, Fort Worth, Texas, 76120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.04890000000,32.82240000000 ]
+    },
+    "properties": {
+    "CONAME":"Soleo Health",
+    "STREET":"Amon Carter Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76155,
+    "NAICS":44611008,
+    "SIC":"591207",
+    "EMPNUM":10,
+    "SALESVOL":3140000,
+    "DESC_":"Soleo Health, Amon Carter Blvd, Fort Worth, Texas, 76155"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.04050000000,32.82250000000 ]
+    },
+    "properties": {
+    "CONAME":"Express Scripts Inc",
+    "STREET":"Trinity Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76155,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":700,
+    "SALESVOL":219861000,
+    "DESC_":"Express Scripts Inc, Trinity Blvd, Fort Worth, Texas, 76155"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.43450000000,32.72090000000 ]
+    },
+    "properties": {
+    "CONAME":"Nationwide Respiratory Care",
+    "STREET":"Camp Bowie Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":3,
+    "SALESVOL":942000,
+    "DESC_":"Nationwide Respiratory Care, Camp Bowie Blvd, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.42760000000,32.70210000000 ]
+    },
+    "properties": {
+    "CONAME":"Walmart Pharmacy",
+    "STREET":"W Vickery Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":8,
+    "SALESVOL":2512000,
+    "DESC_":"Walmart Pharmacy, W Vickery Blvd, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.41300000000,32.73150000000 ]
+    },
+    "properties": {
+    "CONAME":"Best Value Ridglea Drug",
+    "STREET":"Lovell Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":8,
+    "SALESVOL":2512000,
+    "DESC_":"Best Value Ridglea Drug, Lovell Ave, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.43390000000,32.73880000000 ]
+    },
+    "properties": {
+    "CONAME":"Ridgmar Pharmacy",
+    "STREET":"Green Oaks Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":5,
+    "SALESVOL":1570000,
+    "DESC_":"Ridgmar Pharmacy, Green Oaks Rd, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.41300000000,32.73150000000 ]
+    },
+    "properties": {
+    "CONAME":"Best Value Pharmacies",
+    "STREET":"Lovell Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":7,
+    "SALESVOL":0,
+    "DESC_":"Best Value Pharmacies, Lovell Ave, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.43310000000,32.73670000000 ]
+    },
+    "properties": {
+    "CONAME":"Albertsons Sav-on Pharmacy",
+    "STREET":"West Fwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":5,
+    "SALESVOL":1570000,
+    "DESC_":"Albertsons Sav-on Pharmacy, West Fwy, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.43460000000,32.73920000000 ]
+    },
+    "properties": {
+    "CONAME":"Ridgmar Pharmacy",
+    "STREET":"Mall Cir",
+    "CITY":"Benbrook",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":5,
+    "SALESVOL":1570000,
+    "DESC_":"Ridgmar Pharmacy, Mall Cir, Benbrook, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.41980000000,32.72700000000 ]
+    },
+    "properties": {
+    "CONAME":"Walgreens",
+    "STREET":"Camp Bowie Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":28,
+    "SALESVOL":8794000,
+    "DESC_":"Walgreens, Camp Bowie Blvd, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.43380000000,32.75000000000 ]
+    },
+    "properties": {
+    "CONAME":"Target Pharmacy",
+    "STREET":"Alta Mere Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":150,
+    "SALESVOL":47113000,
+    "DESC_":"Target Pharmacy, Alta Mere Dr, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.42990000000,32.75400000000 ]
+    },
+    "properties": {
+    "CONAME":"Walmart Pharmacy",
+    "STREET":"Westworth Blvd",
+    "CITY":"Westworth Vlg",
+    "STATE_NAME":"Texas",
+    "ZIP":76114,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":8,
+    "SALESVOL":2512000,
+    "DESC_":"Walmart Pharmacy, Westworth Blvd, Westworth Vlg, Texas, 76114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.42930000000,32.75460000000 ]
+    },
+    "properties": {
+    "CONAME":"Sam's Club Pharmacy",
+    "STREET":"Westworth Blvd",
+    "CITY":"Westworth Vlg",
+    "STATE_NAME":"Texas",
+    "ZIP":76114,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":7,
+    "SALESVOL":2198000,
+    "DESC_":"Sam's Club Pharmacy, Westworth Blvd, Westworth Vlg, Texas, 76114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36550000000,32.71160000000 ]
+    },
+    "properties": {
+    "CONAME":"Tcu Health Ctr Pharmacy",
+    "STREET":"Stadium Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":2,
+    "SALESVOL":628000,
+    "DESC_":"Tcu Health Ctr Pharmacy, Stadium Dr, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38590000000,32.70940000000 ]
+    },
+    "properties": {
+    "CONAME":"Walgreens",
+    "STREET":"Oak Park Ln",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":6,
+    "SALESVOL":1884000,
+    "DESC_":"Walgreens, Oak Park Ln, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35960000000,32.69580000000 ]
+    },
+    "properties": {
+    "CONAME":"W-w-b Health Care Assoc",
+    "STREET":"Granbury Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":44611008,
+    "SIC":"591207",
+    "EMPNUM":7,
+    "SALESVOL":2198000,
+    "DESC_":"W-w-b Health Care Assoc, Granbury Rd, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38890000000,32.73260000000 ]
+    },
+    "properties": {
+    "CONAME":"H-e-b Pharmacy",
+    "STREET":"West Fwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":11,
+    "SALESVOL":3454000,
+    "DESC_":"H-e-b Pharmacy, West Fwy, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38710000000,32.74000000000 ]
+    },
+    "properties": {
+    "CONAME":"Walgreens",
+    "STREET":"Camp Bowie Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":6,
+    "SALESVOL":1884000,
+    "DESC_":"Walgreens, Camp Bowie Blvd, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36740000000,32.75090000000 ]
+    },
+    "properties": {
+    "CONAME":"Daniel Drug",
+    "STREET":"W 7th St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":7,
+    "SALESVOL":2198000,
+    "DESC_":"Daniel Drug, W 7th St, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37170000000,32.74740000000 ]
+    },
+    "properties": {
+    "CONAME":"Cvs/pharmacy",
+    "STREET":"Camp Bowie Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":17,
+    "SALESVOL":5339000,
+    "DESC_":"Cvs/pharmacy, Camp Bowie Blvd, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.41940000000,32.82250000000 ]
+    },
+    "properties": {
+    "CONAME":"Lake Worth Pharmacy",
+    "STREET":"Boat Club Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76135,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":7,
+    "SALESVOL":2198000,
+    "DESC_":"Lake Worth Pharmacy, Boat Club Rd, Fort Worth, Texas, 76135"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.41520000000,32.96790000000 ]
+    },
+    "properties": {
+    "CONAME":"Walmart Pharmacy",
+    "STREET":"Avondale Haslet Rd",
+    "CITY":"Haslet",
+    "STATE_NAME":"Texas",
+    "ZIP":76052,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":8,
+    "SALESVOL":2512000,
+    "DESC_":"Walmart Pharmacy, Avondale Haslet Rd, Haslet, Texas, 76052"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32100000000,32.68640000000 ]
+    },
+    "properties": {
+    "CONAME":"Cvs/pharmacy",
+    "STREET":"South Fwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76115,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":33,
+    "SALESVOL":10364000,
+    "DESC_":"Cvs/pharmacy, South Fwy, Fort Worth, Texas, 76115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35270000000,32.68530000000 ]
+    },
+    "properties": {
+    "CONAME":"Mc Cart Pharmacy",
+    "STREET":"Mccart Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76115,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":3,
+    "SALESVOL":942000,
+    "DESC_":"Mc Cart Pharmacy, Mccart Ave, Fort Worth, Texas, 76115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33210000000,32.68520000000 ]
+    },
+    "properties": {
+    "CONAME":"Cvs/pharmacy",
+    "STREET":"W Seminary Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76115,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":8,
+    "SALESVOL":2512000,
+    "DESC_":"Cvs/pharmacy, W Seminary Dr, Fort Worth, Texas, 76115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32980000000,32.68500000000 ]
+    },
+    "properties": {
+    "CONAME":"L & S Pharmacy Inc",
+    "STREET":"W Seminary Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76115,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"L & S Pharmacy Inc, W Seminary Dr, Fort Worth, Texas, 76115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28080000000,32.68420000000 ]
+    },
+    "properties": {
+    "CONAME":"Cvs/pharmacy",
+    "STREET":"Mansfield Hwy",
+    "CITY":"Forest Hill",
+    "STATE_NAME":"Texas",
+    "ZIP":76119,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":5,
+    "SALESVOL":1570000,
+    "DESC_":"Cvs/pharmacy, Mansfield Hwy, Forest Hill, Texas, 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29530000000,32.66570000000 ]
+    },
+    "properties": {
+    "CONAME":"Sam's Club Pharmacy",
+    "STREET":"Se Loop 820",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76140,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Sam's Club Pharmacy, Se Loop 820, Fort Worth, Texas, 76140"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.27540000000,32.68120000000 ]
+    },
+    "properties": {
+    "CONAME":"Forest Hill Pharmacy",
+    "STREET":"Mansfield Hwy",
+    "CITY":"Forest Hill",
+    "STATE_NAME":"Texas",
+    "ZIP":76119,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Forest Hill Pharmacy, Mansfield Hwy, Forest Hill, Texas, 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.24150000000,32.67750000000 ]
+    },
+    "properties": {
+    "CONAME":"Recept Health Care",
+    "STREET":"E Loop 820 S",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76119,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":40,
+    "SALESVOL":12563000,
+    "DESC_":"Recept Health Care, E Loop 820 S, Fort Worth, Texas, 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.24150000000,32.67750000000 ]
+    },
+    "properties": {
+    "CONAME":"Recept Pharmacy Lp",
+    "STREET":"E Loop 820 S",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76119,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Recept Pharmacy Lp, E Loop 820 S, Fort Worth, Texas, 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32770000000,32.79540000000 ]
+    },
+    "properties": {
+    "CONAME":"Industrial & Family Pharmacy",
+    "STREET":"Ne 28th St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76106,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":10,
+    "SALESVOL":3140000,
+    "DESC_":"Industrial & Family Pharmacy, Ne 28th St, Fort Worth, Texas, 76106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34820000000,32.79460000000 ]
+    },
+    "properties": {
+    "CONAME":"Walgreens",
+    "STREET":"Ne 28th St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76164,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":18,
+    "SALESVOL":5653000,
+    "DESC_":"Walgreens, Ne 28th St, Fort Worth, Texas, 76164"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28870000000,32.78210000000 ]
+    },
+    "properties": {
+    "CONAME":"Medstore Pharmacy",
+    "STREET":"E Belknap St",
+    "CITY":"Haltom City",
+    "STATE_NAME":"Texas",
+    "ZIP":76111,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Medstore Pharmacy, E Belknap St, Haltom City, Texas, 76111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32550000000,32.74760000000 ]
+    },
+    "properties": {
+    "CONAME":"Watkins Products",
+    "STREET":"Commerce St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":44611006,
+    "SIC":"591202",
+    "EMPNUM":1,
+    "SALESVOL":314000,
+    "DESC_":"Watkins Products, Commerce St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32850000000,32.73770000000 ]
+    },
+    "properties": {
+    "CONAME":"Jamorx Pharmacy",
+    "STREET":"Saint Louis Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Jamorx Pharmacy, Saint Louis Ave, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32590000000,32.73140000000 ]
+    },
+    "properties": {
+    "CONAME":"Main Pharmacy",
+    "STREET":"S Main St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Main Pharmacy, S Main St, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.26150000000,32.71390000000 ]
+    },
+    "properties": {
+    "CONAME":"Us Pharmacy",
+    "STREET":"E Berry St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76105,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Us Pharmacy, E Berry St, Fort Worth, Texas, 76105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28970000000,32.69220000000 ]
+    },
+    "properties": {
+    "CONAME":"J & D Pharmacy Inc",
+    "STREET":"Sarah Jane Ln",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76119,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"J & D Pharmacy Inc, Sarah Jane Ln, Fort Worth, Texas, 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.26350000000,32.71450000000 ]
+    },
+    "properties": {
+    "CONAME":"Walgreens",
+    "STREET":"Miller Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76105,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":35,
+    "SALESVOL":10993000,
+    "DESC_":"Walgreens, Miller Ave, Fort Worth, Texas, 76105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28180000000,32.71230000000 ]
+    },
+    "properties": {
+    "CONAME":"Walmart Pharmacy",
+    "STREET":"Renaissance Sq",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76105,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":8,
+    "SALESVOL":2512000,
+    "DESC_":"Walmart Pharmacy, Renaissance Sq, Fort Worth, Texas, 76105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.26350000000,32.71450000000 ]
+    },
+    "properties": {
+    "CONAME":"Ft Worth Stores",
+    "STREET":"Miller Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76105,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Ft Worth Stores, Miller Ave, Fort Worth, Texas, 76105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.26300000000,32.74070000000 ]
+    },
+    "properties": {
+    "CONAME":"Cvs/pharmacy",
+    "STREET":"E Lancaster Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76103,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":7,
+    "SALESVOL":2198000,
+    "DESC_":"Cvs/pharmacy, E Lancaster Ave, Fort Worth, Texas, 76103"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.26160000000,32.74080000000 ]
+    },
+    "properties": {
+    "CONAME":"Walgreens",
+    "STREET":"E Lancaster Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76103,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":15,
+    "SALESVOL":4711000,
+    "DESC_":"Walgreens, E Lancaster Ave, Fort Worth, Texas, 76103"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28760000000,32.74840000000 ]
+    },
+    "properties": {
+    "CONAME":"Lagniappe Pharmacy Svc",
+    "STREET":"Scott Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76103,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":26,
+    "SALESVOL":8166000,
+    "DESC_":"Lagniappe Pharmacy Svc, Scott Ave, Fort Worth, Texas, 76103"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29180000000,32.77460000000 ]
+    },
+    "properties": {
+    "CONAME":"Walmart Pharmacy",
+    "STREET":"Airport Fwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76111,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":8,
+    "SALESVOL":2512000,
+    "DESC_":"Walmart Pharmacy, Airport Fwy, Fort Worth, Texas, 76111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29200000000,32.78050000000 ]
+    },
+    "properties": {
+    "CONAME":"Walgreens",
+    "STREET":"E Belknap St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76111,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":30,
+    "SALESVOL":9422000,
+    "DESC_":"Walgreens, E Belknap St, Fort Worth, Texas, 76111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.30200000000,32.79450000000 ]
+    },
+    "properties": {
+    "CONAME":"A & P Pharmacy",
+    "STREET":"N Riverside Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76111,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":5,
+    "SALESVOL":1570000,
+    "DESC_":"A & P Pharmacy, N Riverside Dr, Fort Worth, Texas, 76111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.20490000000,32.74430000000 ]
+    },
+    "properties": {
+    "CONAME":"Seminary Drive Pharmacy",
+    "STREET":"Jewell Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Seminary Drive Pharmacy, Jewell Ave, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.21820000000,32.74610000000 ]
+    },
+    "properties": {
+    "CONAME":"Walmart Pharmacy",
+    "STREET":"Meadowbrook Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":8,
+    "SALESVOL":2512000,
+    "DESC_":"Walmart Pharmacy, Meadowbrook Dr, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.21780000000,32.74600000000 ]
+    },
+    "properties": {
+    "CONAME":"Eckerd",
+    "STREET":"Meadowbrook Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Eckerd, Meadowbrook Dr, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.21520000000,32.74570000000 ]
+    },
+    "properties": {
+    "CONAME":"Meadowbrook Pharmacy",
+    "STREET":"Meadowbrook Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Meadowbrook Pharmacy, Meadowbrook Dr, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.21720000000,32.74560000000 ]
+    },
+    "properties": {
+    "CONAME":"Cvs/pharmacy",
+    "STREET":"Meadowbrook Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":30,
+    "SALESVOL":9422000,
+    "DESC_":"Cvs/pharmacy, Meadowbrook Dr, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.21330000000,32.76810000000 ]
+    },
+    "properties": {
+    "CONAME":"Albertsons Sav-on Pharmacy",
+    "STREET":"E Loop 820",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":5,
+    "SALESVOL":1570000,
+    "DESC_":"Albertsons Sav-on Pharmacy, E Loop 820, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.21930000000,32.76510000000 ]
+    },
+    "properties": {
+    "CONAME":"Kroger Pharmacy",
+    "STREET":"Bridgewood Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":9,
+    "SALESVOL":2826000,
+    "DESC_":"Kroger Pharmacy, Bridgewood Dr, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.21120000000,32.77470000000 ]
+    },
+    "properties": {
+    "CONAME":"American Specialty Pharm",
+    "STREET":"Manhattan Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76120,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"American Specialty Pharm, Manhattan Blvd, Fort Worth, Texas, 76120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35500000000,32.70550000000 ]
+    },
+    "properties": {
+    "CONAME":"Cvs/pharmacy",
+    "STREET":"W Berry St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":12,
+    "SALESVOL":3769000,
+    "DESC_":"Cvs/pharmacy, W Berry St, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35340000000,32.70590000000 ]
+    },
+    "properties": {
+    "CONAME":"Walgreens",
+    "STREET":"Mccart Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76110,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":25,
+    "SALESVOL":7852000,
+    "DESC_":"Walgreens, Mccart Ave, Fort Worth, Texas, 76110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33230000000,32.70490000000 ]
+    },
+    "properties": {
+    "CONAME":"Walmart Pharmacy",
+    "STREET":"W Berry St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76110,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":8,
+    "SALESVOL":2512000,
+    "DESC_":"Walmart Pharmacy, W Berry St, Fort Worth, Texas, 76110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34420000000,32.72560000000 ]
+    },
+    "properties": {
+    "CONAME":"Park Place Pharmacy",
+    "STREET":"Park Place Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76110,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Park Place Pharmacy, Park Place Ave, Fort Worth, Texas, 76110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33090000000,32.73060000000 ]
+    },
+    "properties": {
+    "CONAME":"Tower Medic Homecare & Supply",
+    "STREET":"W Magnolia Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":15,
+    "SALESVOL":4711000,
+    "DESC_":"Tower Medic Homecare & Supply, W Magnolia Ave, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33110000000,32.73040000000 ]
+    },
+    "properties": {
+    "CONAME":"Prescription Shoppe",
+    "STREET":"W Magnolia Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Prescription Shoppe, W Magnolia Ave, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34420000000,32.72560000000 ]
+    },
+    "properties": {
+    "CONAME":"South Script Health Care Inc",
+    "STREET":"Park Place Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76110,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"South Script Health Care Inc, Park Place Ave, Fort Worth, Texas, 76110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34330000000,32.73030000000 ]
+    },
+    "properties": {
+    "CONAME":"Legacy Pharmacy",
+    "STREET":"8th Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":3,
+    "SALESVOL":942000,
+    "DESC_":"Legacy Pharmacy, 8th Ave, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33070000000,32.73500000000 ]
+    },
+    "properties": {
+    "CONAME":"Jps Infusion Pharmacy",
+    "STREET":"W Terrell Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":7,
+    "SALESVOL":2198000,
+    "DESC_":"Jps Infusion Pharmacy, W Terrell Ave, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33280000000,32.73110000000 ]
+    },
+    "properties": {
+    "CONAME":"Center Pharmacy",
+    "STREET":"W Magnolia Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":5,
+    "SALESVOL":1570000,
+    "DESC_":"Center Pharmacy, W Magnolia Ave, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33810000000,32.74010000000 ]
+    },
+    "properties": {
+    "CONAME":"Cvs/pharmacy",
+    "STREET":"S Henderson St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":17,
+    "SALESVOL":5339000,
+    "DESC_":"Cvs/pharmacy, S Henderson St, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35100000000,32.73620000000 ]
+    },
+    "properties": {
+    "CONAME":"New Care Pharmacy",
+    "STREET":"Jerome St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"New Care Pharmacy, Jerome St, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33090000000,32.73060000000 ]
+    },
+    "properties": {
+    "CONAME":"Tower-medic Pharmacy",
+    "STREET":"W Magnolia Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":15,
+    "SALESVOL":4711000,
+    "DESC_":"Tower-medic Pharmacy, W Magnolia Ave, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33810000000,32.74010000000 ]
+    },
+    "properties": {
+    "CONAME":"Care Plus Pharmacy",
+    "STREET":"S Henderson St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":15,
+    "SALESVOL":4711000,
+    "DESC_":"Care Plus Pharmacy, S Henderson St, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33220000000,32.73890000000 ]
+    },
+    "properties": {
+    "CONAME":"Ability Pharmacy",
+    "STREET":"Hemphill St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Ability Pharmacy, Hemphill St, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34420000000,32.73590000000 ]
+    },
+    "properties": {
+    "CONAME":"Pharmacy Management",
+    "STREET":"8th Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Pharmacy Management, 8th Ave, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34380000000,32.73190000000 ]
+    },
+    "properties": {
+    "CONAME":"Courtyard Pharmacy",
+    "STREET":"8th Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":6,
+    "SALESVOL":1884000,
+    "DESC_":"Courtyard Pharmacy, 8th Ave, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33960000000,32.73840000000 ]
+    },
+    "properties": {
+    "CONAME":"Walgreens",
+    "STREET":"Pennsylvania Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Walgreens, Pennsylvania Ave, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34150000000,32.73700000000 ]
+    },
+    "properties": {
+    "CONAME":"Cook Children's Pharmacy",
+    "STREET":"7th Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Cook Children's Pharmacy, 7th Ave, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33360000000,32.73340000000 ]
+    },
+    "properties": {
+    "CONAME":"Rosedale Pharmacy",
+    "STREET":"W Rosedale St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Rosedale Pharmacy, W Rosedale St, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34420000000,32.73590000000 ]
+    },
+    "properties": {
+    "CONAME":"Re Cept Pharmacy",
+    "STREET":"8th Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":6,
+    "SALESVOL":1884000,
+    "DESC_":"Re Cept Pharmacy, 8th Ave, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33080000000,32.73060000000 ]
+    },
+    "properties": {
+    "CONAME":"Jwd Business Group",
+    "STREET":"W Magnolia Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":44611008,
+    "SIC":"591207",
+    "EMPNUM":1,
+    "SALESVOL":314000,
+    "DESC_":"Jwd Business Group, W Magnolia Ave, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35460000000,32.75610000000 ]
+    },
+    "properties": {
+    "CONAME":"Target Pharmacy",
+    "STREET":"Carroll St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":7,
+    "SALESVOL":2198000,
+    "DESC_":"Target Pharmacy, Carroll St, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34110000000,32.75360000000 ]
+    },
+    "properties": {
+    "CONAME":"Rxpress Pharmacy",
+    "STREET":"W Weatherford St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Rxpress Pharmacy, W Weatherford St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33700000000,32.74940000000 ]
+    },
+    "properties": {
+    "CONAME":"Walgreens",
+    "STREET":"Henderson St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":30,
+    "SALESVOL":9422000,
+    "DESC_":"Walgreens, Henderson St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34110000000,32.75360000000 ]
+    },
+    "properties": {
+    "CONAME":"Rxpress",
+    "STREET":"W Weatherford St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Rxpress, W Weatherford St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32970000000,32.75320000000 ]
+    },
+    "properties": {
+    "CONAME":"Nicox Inc",
+    "STREET":"Main St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Nicox Inc, Main St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33330000000,32.75770000000 ]
+    },
+    "properties": {
+    "CONAME":"Physicians Pharmacy Alliance",
+    "STREET":"",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":44611008,
+    "SIC":"591207",
+    "EMPNUM":3,
+    "SALESVOL":942000,
+    "DESC_":"Physicians Pharmacy Alliance,  , Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29130000000,32.85970000000 ]
+    },
+    "properties": {
+    "CONAME":"Albertsons Sav-on Pharmacy",
+    "STREET":"Western Center Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76137,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Albertsons Sav-on Pharmacy, Western Center Blvd, Fort Worth, Texas, 76137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28830000000,32.86100000000 ]
+    },
+    "properties": {
+    "CONAME":"Walgreens",
+    "STREET":"Western Center Blvd",
+    "CITY":"Haltom City",
+    "STATE_NAME":"Texas",
+    "ZIP":76137,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":40,
+    "SALESVOL":12563000,
+    "DESC_":"Walgreens, Western Center Blvd, Haltom City, Texas, 76137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29190000000,32.86120000000 ]
+    },
+    "properties": {
+    "CONAME":"Cvs/pharmacy",
+    "STREET":"Western Center Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76137,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":20,
+    "SALESVOL":6281000,
+    "DESC_":"Cvs/pharmacy, Western Center Blvd, Fort Worth, Texas, 76137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28980000000,32.87190000000 ]
+    },
+    "properties": {
+    "CONAME":"Cvs/pharmacy",
+    "STREET":"Basswood Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76137,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":5,
+    "SALESVOL":1570000,
+    "DESC_":"Cvs/pharmacy, Basswood Blvd, Fort Worth, Texas, 76137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28950000000,32.89380000000 ]
+    },
+    "properties": {
+    "CONAME":"Walgreens",
+    "STREET":"North Tarrant Pkwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":21,
+    "SALESVOL":6595000,
+    "DESC_":"Walgreens, North Tarrant Pkwy, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.25890000000,32.89320000000 ]
+    },
+    "properties": {
+    "CONAME":"Albertsons Sav-on Pharmacy",
+    "STREET":"Denton Hwy",
+    "CITY":"Watauga",
+    "STATE_NAME":"Texas",
+    "ZIP":76148,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":3,
+    "SALESVOL":942000,
+    "DESC_":"Albertsons Sav-on Pharmacy, Denton Hwy, Watauga, Texas, 76148"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29000000000,32.86190000000 ]
+    },
+    "properties": {
+    "CONAME":"Kroger Pharmacy",
+    "STREET":"N Beach St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76137,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":6,
+    "SALESVOL":1884000,
+    "DESC_":"Kroger Pharmacy, N Beach St, Fort Worth, Texas, 76137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.25950000000,32.88970000000 ]
+    },
+    "properties": {
+    "CONAME":"Target Pharmacy",
+    "STREET":"Denton Hwy",
+    "CITY":"Watauga",
+    "STATE_NAME":"Texas",
+    "ZIP":76148,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":7,
+    "SALESVOL":2198000,
+    "DESC_":"Target Pharmacy, Denton Hwy, Watauga, Texas, 76148"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.27030000000,32.87510000000 ]
+    },
+    "properties": {
+    "CONAME":"Walmart Pharmacy",
+    "STREET":"Park Vista Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76137,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":8,
+    "SALESVOL":2512000,
+    "DESC_":"Walmart Pharmacy, Park Vista Blvd, Fort Worth, Texas, 76137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28720000000,32.89490000000 ]
+    },
+    "properties": {
+    "CONAME":"Walmart Pharmacy",
+    "STREET":"N Beach St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":8,
+    "SALESVOL":2512000,
+    "DESC_":"Walmart Pharmacy, N Beach St, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28890000000,32.87880000000 ]
+    },
+    "properties": {
+    "CONAME":"Beach Steet Pharmacy",
+    "STREET":"N Beach St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76137,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":2,
+    "SALESVOL":628000,
+    "DESC_":"Beach Steet Pharmacy, N Beach St, Fort Worth, Texas, 76137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.25890000000,32.89320000000 ]
+    },
+    "properties": {
+    "CONAME":"Watuaga",
+    "STREET":"Denton Hwy",
+    "CITY":"Watauga",
+    "STATE_NAME":"Texas",
+    "ZIP":76148,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Watuaga, Denton Hwy, Watauga, Texas, 76148"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.30570000000,32.91480000000 ]
+    },
+    "properties": {
+    "CONAME":"Heritage Pharmacy",
+    "STREET":"Heritage Trace Pkwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":1,
+    "SALESVOL":314000,
+    "DESC_":"Heritage Pharmacy, Heritage Trace Pkwy, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28780000000,32.92980000000 ]
+    },
+    "properties": {
+    "CONAME":"Pharmacy New Albertson's",
+    "STREET":"N Beach St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Pharmacy New Albertson's, N Beach St, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28840000000,32.91480000000 ]
+    },
+    "properties": {
+    "CONAME":"Walmart Pharmacy",
+    "STREET":"Heritage Trace Pkwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":8,
+    "SALESVOL":2512000,
+    "DESC_":"Walmart Pharmacy, Heritage Trace Pkwy, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28150000000,32.95700000000 ]
+    },
+    "properties": {
+    "CONAME":"Saratoga Pharmacy",
+    "STREET":"N Beach St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Saratoga Pharmacy, N Beach St, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28230000000,32.95370000000 ]
+    },
+    "properties": {
+    "CONAME":"Walgreens",
+    "STREET":"Timberland Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":21,
+    "SALESVOL":6595000,
+    "DESC_":"Walgreens, Timberland Blvd, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29100000000,32.93150000000 ]
+    },
+    "properties": {
+    "CONAME":"Walgreens",
+    "STREET":"Golden Triangle Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":21,
+    "SALESVOL":6595000,
+    "DESC_":"Walgreens, Golden Triangle Blvd, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.42080000000,32.66090000000 ]
+    },
+    "properties": {
+    "CONAME":"Best Value Country Day Pharm",
+    "STREET":"Harris Pkwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76132,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":6,
+    "SALESVOL":1884000,
+    "DESC_":"Best Value Country Day Pharm, Harris Pkwy, Fort Worth, Texas, 76132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.42010000000,32.66290000000 ]
+    },
+    "properties": {
+    "CONAME":"Albertsons Sav-on Pharmacy",
+    "STREET":"Oakmont Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76132,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Albertsons Sav-on Pharmacy, Oakmont Blvd, Fort Worth, Texas, 76132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.42040000000,32.66130000000 ]
+    },
+    "properties": {
+    "CONAME":"Best Value Custom Meds",
+    "STREET":"Harris Pkwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76132,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":7,
+    "SALESVOL":2198000,
+    "DESC_":"Best Value Custom Meds, Harris Pkwy, Fort Worth, Texas, 76132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.41910000000,32.66580000000 ]
+    },
+    "properties": {
+    "CONAME":"Mira Vista Pharmacy",
+    "STREET":"Bryant Irvin Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76132,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Mira Vista Pharmacy, Bryant Irvin Rd, Fort Worth, Texas, 76132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.41570000000,32.67810000000 ]
+    },
+    "properties": {
+    "CONAME":"Walgreens",
+    "STREET":"Bryant Irvin Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76132,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":20,
+    "SALESVOL":6281000,
+    "DESC_":"Walgreens, Bryant Irvin Rd, Fort Worth, Texas, 76132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.42620000000,32.66520000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Pharmacy",
+    "STREET":"Oakmont Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76132,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":7,
+    "SALESVOL":2198000,
+    "DESC_":"Fort Worth Pharmacy, Oakmont Blvd, Fort Worth, Texas, 76132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.42070000000,32.65770000000 ]
+    },
+    "properties": {
+    "CONAME":"Texas Health Ft Worth Pharmacy",
+    "STREET":"Harris Pkwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76132,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":30,
+    "SALESVOL":9422000,
+    "DESC_":"Texas Health Ft Worth Pharmacy, Harris Pkwy, Fort Worth, Texas, 76132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.41330000000,32.67590000000 ]
+    },
+    "properties": {
+    "CONAME":"Target Pharmacy",
+    "STREET":"Overton Ridge Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76132,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":7,
+    "SALESVOL":2198000,
+    "DESC_":"Target Pharmacy, Overton Ridge Blvd, Fort Worth, Texas, 76132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.41430000000,32.68730000000 ]
+    },
+    "properties": {
+    "CONAME":"Sam's Club Pharmacy",
+    "STREET":"Bryant Irvin Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76132,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":5,
+    "SALESVOL":1570000,
+    "DESC_":"Sam's Club Pharmacy, Bryant Irvin Rd, Fort Worth, Texas, 76132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.42280000000,32.66190000000 ]
+    },
+    "properties": {
+    "CONAME":"Cvs/pharmacy",
+    "STREET":"Bryant Irvin Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76132,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":6,
+    "SALESVOL":1884000,
+    "DESC_":"Cvs/pharmacy, Bryant Irvin Rd, Fort Worth, Texas, 76132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36480000000,32.64930000000 ]
+    },
+    "properties": {
+    "CONAME":"Onward Care Pharmacy",
+    "STREET":"Altamesa Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":1,
+    "SALESVOL":314000,
+    "DESC_":"Onward Care Pharmacy, Altamesa Blvd, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37590000000,32.65080000000 ]
+    },
+    "properties": {
+    "CONAME":"Town & Country Drug",
+    "STREET":"Altamesa Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Town & Country Drug, Altamesa Blvd, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36640000000,32.65060000000 ]
+    },
+    "properties": {
+    "CONAME":"Cvs/pharmacy",
+    "STREET":"Mccart Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":25,
+    "SALESVOL":7852000,
+    "DESC_":"Cvs/pharmacy, Mccart Ave, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36850000000,32.65010000000 ]
+    },
+    "properties": {
+    "CONAME":"Kroger Pharmacy",
+    "STREET":"Altamesa Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":6,
+    "SALESVOL":1884000,
+    "DESC_":"Kroger Pharmacy, Altamesa Blvd, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.40270000000,32.66160000000 ]
+    },
+    "properties": {
+    "CONAME":"Walgreens",
+    "STREET":"S Hulen St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76132,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":6,
+    "SALESVOL":1884000,
+    "DESC_":"Walgreens, S Hulen St, Fort Worth, Texas, 76132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.40210000000,32.65930000000 ]
+    },
+    "properties": {
+    "CONAME":"Kroger Pharmacy",
+    "STREET":"S Hulen St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76132,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":9,
+    "SALESVOL":2826000,
+    "DESC_":"Kroger Pharmacy, S Hulen St, Fort Worth, Texas, 76132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.40860000000,32.67610000000 ]
+    },
+    "properties": {
+    "CONAME":"Costco Pharmacy",
+    "STREET":"Overton Ridge Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76132,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":9,
+    "SALESVOL":2826000,
+    "DESC_":"Costco Pharmacy, Overton Ridge Blvd, Fort Worth, Texas, 76132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38550000000,32.66950000000 ]
+    },
+    "properties": {
+    "CONAME":"Wedgewood Pharmacy",
+    "STREET":"Wedgmont Cir N",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":7,
+    "SALESVOL":2198000,
+    "DESC_":"Wedgewood Pharmacy, Wedgmont Cir N, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.40450000000,32.66300000000 ]
+    },
+    "properties": {
+    "CONAME":"Walmart Pharmacy",
+    "STREET":"Oakmont Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76132,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":8,
+    "SALESVOL":2512000,
+    "DESC_":"Walmart Pharmacy, Oakmont Blvd, Fort Worth, Texas, 76132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.40050000000,32.65850000000 ]
+    },
+    "properties": {
+    "CONAME":"Hulen Pharmacy",
+    "STREET":"Granbury Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":3,
+    "SALESVOL":942000,
+    "DESC_":"Hulen Pharmacy, Granbury Rd, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37560000000,32.67110000000 ]
+    },
+    "properties": {
+    "CONAME":"Cvs/pharmacy",
+    "STREET":"Trail Lake Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":9,
+    "SALESVOL":2826000,
+    "DESC_":"Cvs/pharmacy, Trail Lake Dr, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36130000000,32.65470000000 ]
+    },
+    "properties": {
+    "CONAME":"Walgreens",
+    "STREET":"Westcreek Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":40,
+    "SALESVOL":12563000,
+    "DESC_":"Walgreens, Westcreek Dr, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.47110000000,32.73720000000 ]
+    },
+    "properties": {
+    "CONAME":"Tanglewood Pharmacy & Med Supl",
+    "STREET":"West Fwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":2,
+    "SALESVOL":628000,
+    "DESC_":"Tanglewood Pharmacy & Med Supl, West Fwy, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.46420000000,32.72440000000 ]
+    },
+    "properties": {
+    "CONAME":"Cvs/pharmacy",
+    "STREET":"Camp Bowie West Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":12,
+    "SALESVOL":3769000,
+    "DESC_":"Cvs/pharmacy, Camp Bowie West Blvd, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.47610000000,32.72460000000 ]
+    },
+    "properties": {
+    "CONAME":"Kroger Pharmacy",
+    "STREET":"Camp Bowie West Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":6,
+    "SALESVOL":1884000,
+    "DESC_":"Kroger Pharmacy, Camp Bowie West Blvd, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.46830000000,32.72530000000 ]
+    },
+    "properties": {
+    "CONAME":"Walgreens",
+    "STREET":"Camp Bowie West Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":21,
+    "SALESVOL":6595000,
+    "DESC_":"Walgreens, Camp Bowie West Blvd, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.46940000000,32.72450000000 ]
+    },
+    "properties": {
+    "CONAME":"Shri Balaji Drugs Inc",
+    "STREET":"Camp Bowie West Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Shri Balaji Drugs Inc, Camp Bowie West Blvd, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.46560000000,32.72440000000 ]
+    },
+    "properties": {
+    "CONAME":"Walgreens",
+    "STREET":"Highway 80 W",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":20,
+    "SALESVOL":6281000,
+    "DESC_":"Walgreens, Highway 80 W, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.48390000000,32.76270000000 ]
+    },
+    "properties": {
+    "CONAME":"Cvs/pharmacy",
+    "STREET":"White Settlement Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76108,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":15,
+    "SALESVOL":4711000,
+    "DESC_":"Cvs/pharmacy, White Settlement Rd, Fort Worth, Texas, 76108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.48390000000,32.76180000000 ]
+    },
+    "properties": {
+    "CONAME":"Walgreens",
+    "STREET":"White Settlement Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76108,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":5,
+    "SALESVOL":1570000,
+    "DESC_":"Walgreens, White Settlement Rd, Fort Worth, Texas, 76108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.47740000000,32.75780000000 ]
+    },
+    "properties": {
+    "CONAME":"Rx.com Community Pharmacy",
+    "STREET":"S Jim Wright Fwy",
+    "CITY":"White Settlement",
+    "STATE_NAME":"Texas",
+    "ZIP":76108,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":8,
+    "SALESVOL":2512000,
+    "DESC_":"Rx.com Community Pharmacy, S Jim Wright Fwy, White Settlement, Texas, 76108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.47810000000,32.76620000000 ]
+    },
+    "properties": {
+    "CONAME":"Albertsons Sav-on Pharmacy",
+    "STREET":"Clifford St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76108,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Albertsons Sav-on Pharmacy, Clifford St, Fort Worth, Texas, 76108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.48100000000,32.76330000000 ]
+    },
+    "properties": {
+    "CONAME":"Westpoint Pharmacy",
+    "STREET":"Clifford St",
+    "CITY":"White Settlement",
+    "STATE_NAME":"Texas",
+    "ZIP":76108,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Westpoint Pharmacy, Clifford St, White Settlement, Texas, 76108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.42630000000,32.88040000000 ]
+    },
+    "properties": {
+    "CONAME":"Cvs/pharmacy",
+    "STREET":"Boat Club Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76179,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":14,
+    "SALESVOL":4397000,
+    "DESC_":"Cvs/pharmacy, Boat Club Rd, Fort Worth, Texas, 76179"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38670000000,32.78300000000 ]
+    },
+    "properties": {
+    "CONAME":"Doctors Pharmacy",
+    "STREET":"River Oaks Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76114,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Doctors Pharmacy, River Oaks Blvd, Fort Worth, Texas, 76114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38680000000,32.78850000000 ]
+    },
+    "properties": {
+    "CONAME":"Cvs/pharmacy",
+    "STREET":"Jacksboro Hwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76114,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":14,
+    "SALESVOL":4397000,
+    "DESC_":"Cvs/pharmacy, Jacksboro Hwy, Fort Worth, Texas, 76114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38780000000,32.78940000000 ]
+    },
+    "properties": {
+    "CONAME":"Cvs/pharmacy",
+    "STREET":"Jacksboro Hwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76114,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":30,
+    "SALESVOL":9422000,
+    "DESC_":"Cvs/pharmacy, Jacksboro Hwy, Fort Worth, Texas, 76114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38350000000,32.78580000000 ]
+    },
+    "properties": {
+    "CONAME":"Walgreens",
+    "STREET":"Jacksboro Hwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76114,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":15,
+    "SALESVOL":4711000,
+    "DESC_":"Walgreens, Jacksboro Hwy, Fort Worth, Texas, 76114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38280000000,32.78310000000 ]
+    },
+    "properties": {
+    "CONAME":"Walmart Pharmacy",
+    "STREET":"Jacksboro Hwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76114,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":8,
+    "SALESVOL":2512000,
+    "DESC_":"Walmart Pharmacy, Jacksboro Hwy, Fort Worth, Texas, 76114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.48150000000,32.76420000000 ]
+    },
+    "properties": {
+    "CONAME":"Walmart Pharmacy",
+    "STREET":"Clifford St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76108,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":8,
+    "SALESVOL":2512000,
+    "DESC_":"Walmart Pharmacy, Clifford St, Fort Worth, Texas, 76108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.47740000000,32.75780000000 ]
+    },
+    "properties": {
+    "CONAME":"Rx.com",
+    "STREET":"S Jim Wright Fwy",
+    "CITY":"White Settlement",
+    "STATE_NAME":"Texas",
+    "ZIP":76108,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":4,
+    "SALESVOL":1256000,
+    "DESC_":"Rx.com, S Jim Wright Fwy, White Settlement, Texas, 76108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.44060000000,32.72060000000 ]
+    },
+    "properties": {
+    "CONAME":"Cvs/pharmacy",
+    "STREET":"Alta Mere Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":10,
+    "SALESVOL":3140000,
+    "DESC_":"Cvs/pharmacy, Alta Mere Dr, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.44490000000,32.71380000000 ]
+    },
+    "properties": {
+    "CONAME":"Perrone Pharmacy",
+    "STREET":"Benbrook Hwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":35,
+    "SALESVOL":10993000,
+    "DESC_":"Perrone Pharmacy, Benbrook Hwy, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.45050000000,32.70480000000 ]
+    },
+    "properties": {
+    "CONAME":"Literacy Connexus",
+    "STREET":"Benbrook Blvd",
+    "CITY":"Benbrook",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":2,
+    "SALESVOL":628000,
+    "DESC_":"Literacy Connexus, Benbrook Blvd, Benbrook, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.44490000000,32.71310000000 ]
+    },
+    "properties": {
+    "CONAME":"Perronerx Llc",
+    "STREET":"Benbrook Hwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":44611009,
+    "SIC":"591205",
+    "EMPNUM":70,
+    "SALESVOL":21986000,
+    "DESC_":"Perronerx Llc, Benbrook Hwy, Fort Worth, Texas, 76116"
+    }
+  }
+]
+}

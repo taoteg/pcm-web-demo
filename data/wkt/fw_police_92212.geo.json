@@ -1,0 +1,841 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.16570000000,32.80900000000 ]
+    },
+    "properties": {
+    "CONAME":"Hurst City Police-youth Svc",
+    "STREET":"E Hurst Blvd",
+    "CITY":"Hurst",
+    "STATE_NAME":"Texas",
+    "ZIP":76053,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":3,
+    "SALESVOL":0,
+    "DESC_":"Hurst City Police-youth Svc, E Hurst Blvd, Hurst, Texas, 76053"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.16560000000,32.80900000000 ]
+    },
+    "properties": {
+    "CONAME":"Hurst Police Dept",
+    "STREET":"E Hurst Blvd",
+    "CITY":"Hurst",
+    "STATE_NAME":"Texas",
+    "ZIP":76053,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":5,
+    "SALESVOL":0,
+    "DESC_":"Hurst Police Dept, E Hurst Blvd, Hurst, Texas, 76053"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36170000000,32.69010000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police Dept",
+    "STREET":"W Bolt St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76110,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":130,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police Dept, W Bolt St, Fort Worth, Texas, 76110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35860000000,32.70640000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police Storefront",
+    "STREET":"W Berry St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":29,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police Storefront, W Berry St, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.39010000000,32.72430000000 ]
+    },
+    "properties": {
+    "CONAME":"Hurr Law Office P C",
+    "STREET":"Fletcher Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":29,
+    "SALESVOL":0,
+    "DESC_":"Hurr Law Office P C, Fletcher Ave, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34390000000,32.66110000000 ]
+    },
+    "properties": {
+    "CONAME":"Town of Edge Cliff Village",
+    "STREET":"Edgecliff Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76134,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":29,
+    "SALESVOL":0,
+    "DESC_":"Town of Edge Cliff Village, Edgecliff Rd, Fort Worth, Texas, 76134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32950000000,32.67800000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police Training Div",
+    "STREET":"W Felix St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76115,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":29,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police Training Div, W Felix St, Fort Worth, Texas, 76115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.30200000000,32.67220000000 ]
+    },
+    "properties": {
+    "CONAME":"Tarrant Cnty Training Academy",
+    "STREET":"Circle Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76119,
+    "NAICS":92212007,
+    "SIC":824951,
+    "EMPNUM":10,
+    "SALESVOL":0,
+    "DESC_":"Tarrant Cnty Training Academy, Circle Dr, Fort Worth, Texas, 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33240000000,32.78520000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police Dept-impound",
+    "STREET":"Brennan Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76106,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":35,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police Dept-impound, Brennan Ave, Fort Worth, Texas, 76106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35100000000,32.79050000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police Dept",
+    "STREET":"N Houston St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76164,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":30,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police Dept, N Houston St, Fort Worth, Texas, 76164"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34250000000,32.76150000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police Recruiting",
+    "STREET":"Calvert St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":20,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police Recruiting, Calvert St, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32300000000,32.77660000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police-air Support",
+    "STREET":"Nixon St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":11,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police-air Support, Nixon St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33490000000,32.75530000000 ]
+    },
+    "properties": {
+    "CONAME":"Tarrant County Sheriff-acctng",
+    "STREET":"Taylor St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":92212004,
+    "SIC":922103,
+    "EMPNUM":6,
+    "SALESVOL":0,
+    "DESC_":"Tarrant County Sheriff-acctng, Taylor St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33490000000,32.75530000000 ]
+    },
+    "properties": {
+    "CONAME":"Tarrant County Sheriff-civil",
+    "STREET":"Taylor St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":92212004,
+    "SIC":922103,
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Tarrant County Sheriff-civil, Taylor St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33490000000,32.75530000000 ]
+    },
+    "properties": {
+    "CONAME":"Tarrant County Sheriff-jail",
+    "STREET":"Taylor St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":92212004,
+    "SIC":922103,
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Tarrant County Sheriff-jail, Taylor St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32880000000,32.75560000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police Dept",
+    "STREET":"Jones St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":37,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police Dept, Jones St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28520000000,32.73300000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police Dept",
+    "STREET":"Nashville Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76105,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":30,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police Dept, Nashville Ave, Fort Worth, Texas, 76105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.27160000000,32.74020000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police-property",
+    "STREET":"E Lancaster Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76103,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":21,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police-property, E Lancaster Ave, Fort Worth, Texas, 76103"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29330000000,32.77730000000 ]
+    },
+    "properties": {
+    "CONAME":"Asian Store Front Police Dept",
+    "STREET":"E Belknap St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76111,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":6,
+    "SALESVOL":0,
+    "DESC_":"Asian Store Front Police Dept, E Belknap St, Fort Worth, Texas, 76111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.23350000000,32.73720000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police Dept",
+    "STREET":"E Lancaster Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":29,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police Dept, E Lancaster Ave, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.23350000000,32.73720000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police-field Opers",
+    "STREET":"E Lancaster Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":50,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police-field Opers, E Lancaster Ave, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.17350000000,32.75720000000 ]
+    },
+    "properties": {
+    "CONAME":"Richland Hills City Police",
+    "STREET":"",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76120,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":29,
+    "SALESVOL":0,
+    "DESC_":"Richland Hills City Police,  , Fort Worth, Texas, 76120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.22800000000,32.76600000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police Dept",
+    "STREET":"Boca Raton Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":65,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police Dept, Boca Raton Blvd, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33110000000,32.73120000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police Dept",
+    "STREET":"Hemphill St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":29,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police Dept, Hemphill St, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34420000000,32.75140000000 ]
+    },
+    "properties": {
+    "CONAME":"Federal Bureau-investigation",
+    "STREET":"W 7th St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":92212002,
+    "SIC":922101,
+    "EMPNUM":30,
+    "SALESVOL":0,
+    "DESC_":"Federal Bureau-investigation, W 7th St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33610000000,32.75570000000 ]
+    },
+    "properties": {
+    "CONAME":"Tarrant County Sheriff-jail",
+    "STREET":"N Lamar St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76196,
+    "NAICS":92212004,
+    "SIC":922103,
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Tarrant County Sheriff-jail, N Lamar St, Fort Worth, Texas, 76196"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33590000000,32.75750000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police Jail",
+    "STREET":"W Belknap St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":29,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police Jail, W Belknap St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33590000000,32.75750000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police Dept",
+    "STREET":"W Belknap St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":300,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police Dept, W Belknap St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33590000000,32.75750000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police-crime Prvntn",
+    "STREET":"W Belknap St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":1,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police-crime Prvntn, W Belknap St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33590000000,32.75750000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police-research",
+    "STREET":"W Belknap St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":5,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police-research, W Belknap St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33590000000,32.75750000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police-internal Afr",
+    "STREET":"W Belknap St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":9,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police-internal Afr, W Belknap St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33590000000,32.75750000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police-invstgtns",
+    "STREET":"W Belknap St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":200,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police-invstgtns, W Belknap St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33590000000,32.75750000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police-vice",
+    "STREET":"W Belknap St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":12,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police-vice, W Belknap St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33590000000,32.75750000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police-homicide",
+    "STREET":"W Belknap St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":11,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police-homicide, W Belknap St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33580000000,32.75660000000 ]
+    },
+    "properties": {
+    "CONAME":"Tarrant County Criminal Mgstrt",
+    "STREET":"W Belknap St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76196,
+    "NAICS":92212004,
+    "SIC":922103,
+    "EMPNUM":7,
+    "SALESVOL":0,
+    "DESC_":"Tarrant County Criminal Mgstrt, W Belknap St, Fort Worth, Texas, 76196"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33090000000,32.75040000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police Dept",
+    "STREET":"Throckmorton St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":29,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police Dept, Throckmorton St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33340000000,32.74960000000 ]
+    },
+    "properties": {
+    "CONAME":"Us Marshals Svc",
+    "STREET":"W 10th St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":92212002,
+    "SIC":922101,
+    "EMPNUM":12,
+    "SALESVOL":0,
+    "DESC_":"Us Marshals Svc, W 10th St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33090000000,32.75040000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Marshal's Div",
+    "STREET":"Throckmorton St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Marshal's Div, Throckmorton St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38430000000,32.66980000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police Dept",
+    "STREET":"Trail Lake Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":29,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police Dept, Trail Lake Dr, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38420000000,32.66910000000 ]
+    },
+    "properties": {
+    "CONAME":"Benbrook City Police Dept",
+    "STREET":"Trail Lake Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":29,
+    "SALESVOL":0,
+    "DESC_":"Benbrook City Police Dept, Trail Lake Dr, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36190000000,32.65960000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police Dept",
+    "STREET":"Westcreek Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":29,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police Dept, Westcreek Dr, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35730000000,32.82850000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police Dept",
+    "STREET":"N Main St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76106,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":29,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police Dept, N Main St, Fort Worth, Texas, 76106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.40680000000,32.81150000000 ]
+    },
+    "properties": {
+    "CONAME":"Sansom Park Police Dept",
+    "STREET":"Azle Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76114,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":15,
+    "SALESVOL":0,
+    "DESC_":"Sansom Park Police Dept, Azle Ave, Fort Worth, Texas, 76114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.44330000000,32.72020000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Police Dept",
+    "STREET":"Marquita Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":92212003,
+    "SIC":922104,
+    "EMPNUM":120,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Police Dept, Marquita Dr, Fort Worth, Texas, 76116"
+    }
+  }
+]
+}

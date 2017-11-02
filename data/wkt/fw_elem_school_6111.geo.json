@@ -1,0 +1,5971 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.31650000000,33.02650000000 ]
+    },
+    "properties": {
+    "CONAME":"Gene Pike Middle School",
+    "STREET":"Texan Dr",
+    "CITY":"Justin",
+    "STATE_NAME":"Texas",
+    "ZIP":76247,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":85,
+    "SALESVOL":0,
+    "DESC_":"Gene Pike Middle School, Texan Dr, Justin, Texas, 76247"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32260000000,33.03290000000 ]
+    },
+    "properties": {
+    "CONAME":"Northwest Alliance Academy",
+    "STREET":"Highway 114",
+    "CITY":"Justin",
+    "STATE_NAME":"Texas",
+    "ZIP":76247,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":10,
+    "SALESVOL":0,
+    "DESC_":"Northwest Alliance Academy, Highway 114, Justin, Texas, 76247"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.31950000000,33.03020000000 ]
+    },
+    "properties": {
+    "CONAME":"Northwest School Dist Admin",
+    "STREET":"Texan Dr",
+    "CITY":"Justin",
+    "STATE_NAME":"Texas",
+    "ZIP":76247,
+    "NAICS":61111018,
+    "SIC":"821120",
+    "EMPNUM":118,
+    "SALESVOL":0,
+    "DESC_":"Northwest School Dist Admin, Texan Dr, Justin, Texas, 76247"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.27740000000,32.98070000000 ]
+    },
+    "properties": {
+    "CONAME":"John M Tidwell Middle School",
+    "STREET":"Haslet Roanoke Rd",
+    "CITY":"Roanoke",
+    "STATE_NAME":"Texas",
+    "ZIP":76262,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":100,
+    "SALESVOL":0,
+    "DESC_":"John M Tidwell Middle School, Haslet Roanoke Rd, Roanoke, Texas, 76262"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.27740000000,32.98070000000 ]
+    },
+    "properties": {
+    "CONAME":"Tidwell Middle School",
+    "STREET":"Haslet Roanoke Rd",
+    "CITY":"Roanoke",
+    "STATE_NAME":"Texas",
+    "ZIP":76262,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":80,
+    "SALESVOL":0,
+    "DESC_":"Tidwell Middle School, Haslet Roanoke Rd, Roanoke, Texas, 76262"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.26450000000,33.01380000000 ]
+    },
+    "properties": {
+    "CONAME":"Concordia Academy",
+    "STREET":"Cleveland Gibbs Rd",
+    "CITY":"Northlake",
+    "STATE_NAME":"Texas",
+    "ZIP":76262,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":5,
+    "SALESVOL":0,
+    "DESC_":"Concordia Academy, Cleveland Gibbs Rd, Northlake, Texas, 76262"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.31650000000,33.02650000000 ]
+    },
+    "properties": {
+    "CONAME":"Northwest Annex 9th Grade Ctr",
+    "STREET":"Texan Dr",
+    "CITY":"Justin",
+    "STATE_NAME":"Texas",
+    "ZIP":76247,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":72,
+    "SALESVOL":0,
+    "DESC_":"Northwest Annex 9th Grade Ctr, Texan Dr, Justin, Texas, 76247"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.31760000000,33.03010000000 ]
+    },
+    "properties": {
+    "CONAME":"W R Hatfield Intermediate Schl",
+    "STREET":"Texan Dr",
+    "CITY":"Justin",
+    "STATE_NAME":"Texas",
+    "ZIP":76247,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":72,
+    "SALESVOL":0,
+    "DESC_":"W R Hatfield Intermediate Schl, Texan Dr, Justin, Texas, 76247"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.25080000000,33.00810000000 ]
+    },
+    "properties": {
+    "CONAME":"Cox Elementary School",
+    "STREET":"Litsey Rd",
+    "CITY":"Roanoke",
+    "STATE_NAME":"Texas",
+    "ZIP":76262,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":55,
+    "SALESVOL":0,
+    "DESC_":"Cox Elementary School, Litsey Rd, Roanoke, Texas, 76262"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28610000000,32.98190000000 ]
+    },
+    "properties": {
+    "CONAME":"J Lyndall Hughes Elementary",
+    "STREET":"Lost Spurs Rd",
+    "CITY":"Roanoke",
+    "STATE_NAME":"Texas",
+    "ZIP":76262,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":50,
+    "SALESVOL":0,
+    "DESC_":"J Lyndall Hughes Elementary, Lost Spurs Rd, Roanoke, Texas, 76262"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.31760000000,33.03010000000 ]
+    },
+    "properties": {
+    "CONAME":"W R Hatfield Elementary School",
+    "STREET":"Texan Dr",
+    "CITY":"Justin",
+    "STATE_NAME":"Texas",
+    "ZIP":76247,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":50,
+    "SALESVOL":0,
+    "DESC_":"W R Hatfield Elementary School, Texan Dr, Justin, Texas, 76247"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28610000000,32.98190000000 ]
+    },
+    "properties": {
+    "CONAME":"T C Kid's Club-hughes Elmntry",
+    "STREET":"Lost Spurs Rd",
+    "CITY":"Roanoke",
+    "STATE_NAME":"Texas",
+    "ZIP":76262,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":23,
+    "SALESVOL":0,
+    "DESC_":"T C Kid's Club-hughes Elmntry, Lost Spurs Rd, Roanoke, Texas, 76262"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32330000000,33.03820000000 ]
+    },
+    "properties": {
+    "CONAME":"Clara Love Elementary",
+    "STREET":"Elementary Dr",
+    "CITY":"Justin",
+    "STATE_NAME":"Texas",
+    "ZIP":76247,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":59,
+    "SALESVOL":0,
+    "DESC_":"Clara Love Elementary, Elementary Dr, Justin, Texas, 76247"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32330000000,33.03820000000 ]
+    },
+    "properties": {
+    "CONAME":"Northwest Independent School",
+    "STREET":"Elementary Dr",
+    "CITY":"Justin",
+    "STATE_NAME":"Texas",
+    "ZIP":76247,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":22,
+    "SALESVOL":0,
+    "DESC_":"Northwest Independent School, Elementary Dr, Justin, Texas, 76247"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.31290000000,33.02520000000 ]
+    },
+    "properties": {
+    "CONAME":"Northwest High School",
+    "STREET":"Texan Dr",
+    "CITY":"Justin",
+    "STATE_NAME":"Texas",
+    "ZIP":76247,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":100,
+    "SALESVOL":0,
+    "DESC_":"Northwest High School, Texan Dr, Justin, Texas, 76247"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.06900000000,32.83760000000 ]
+    },
+    "properties": {
+    "CONAME":"Metroplex Chapel Academy",
+    "STREET":"E Airport Fwy",
+    "CITY":"Euless",
+    "STATE_NAME":"Texas",
+    "ZIP":76039,
+    "NAICS":61111004,
+    "SIC":"821101",
+    "EMPNUM":24,
+    "SALESVOL":0,
+    "DESC_":"Metroplex Chapel Academy, E Airport Fwy, Euless, Texas, 76039"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.21540000000,32.79790000000 ]
+    },
+    "properties": {
+    "CONAME":"National High School Ptg Assn",
+    "STREET":"Trinity Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76118,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":45,
+    "SALESVOL":0,
+    "DESC_":"National High School Ptg Assn, Trinity Blvd, Fort Worth, Texas, 76118"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.18860000000,32.77210000000 ]
+    },
+    "properties": {
+    "CONAME":"Lowery Road Elementary School",
+    "STREET":"Lowery Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76120,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":80,
+    "SALESVOL":0,
+    "DESC_":"Lowery Road Elementary School, Lowery Rd, Fort Worth, Texas, 76120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.15620000000,32.76940000000 ]
+    },
+    "properties": {
+    "CONAME":"Ccc Academy",
+    "STREET":"John T White Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76120,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":21,
+    "SALESVOL":0,
+    "DESC_":"Ccc Academy, John T White Rd, Fort Worth, Texas, 76120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.18690000000,32.79770000000 ]
+    },
+    "properties": {
+    "CONAME":"River Trails Elementary School",
+    "STREET":"Elbe Trl",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76118,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":65,
+    "SALESVOL":0,
+    "DESC_":"River Trails Elementary School, Elbe Trl, Fort Worth, Texas, 76118"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.16850000000,32.76840000000 ]
+    },
+    "properties": {
+    "CONAME":"Al-hedayah Academy Inc",
+    "STREET":"Randol Mill Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76120,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":20,
+    "SALESVOL":0,
+    "DESC_":"Al-hedayah Academy Inc, Randol Mill Rd, Fort Worth, Texas, 76120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.19050000000,32.79610000000 ]
+    },
+    "properties": {
+    "CONAME":"Smokin Guns Llc",
+    "STREET":"Creede Trl",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76118,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Smokin Guns Llc, Creede Trl, Fort Worth, Texas, 76118"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34120000000,32.88940000000 ]
+    },
+    "properties": {
+    "CONAME":"Chisholm Ridge Elementary",
+    "STREET":"Running River Ln",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76131,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":75,
+    "SALESVOL":0,
+    "DESC_":"Chisholm Ridge Elementary, Running River Ln, Fort Worth, Texas, 76131"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.31150000000,32.87080000000 ]
+    },
+    "properties": {
+    "CONAME":"Basswood Elementary School",
+    "STREET":"Clay Mountain Trl",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76137,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":50,
+    "SALESVOL":0,
+    "DESC_":"Basswood Elementary School, Clay Mountain Trl, Fort Worth, Texas, 76137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.30690000000,32.88140000000 ]
+    },
+    "properties": {
+    "CONAME":"North Riverside Elementary",
+    "STREET":"N Riverside Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76137,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":80,
+    "SALESVOL":0,
+    "DESC_":"North Riverside Elementary, N Riverside Dr, Fort Worth, Texas, 76137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32460000000,32.84680000000 ]
+    },
+    "properties": {
+    "CONAME":"Northbrook Elementary School",
+    "STREET":"Cantrell Sansom Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76131,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":80,
+    "SALESVOL":0,
+    "DESC_":"Northbrook Elementary School, Cantrell Sansom Rd, Fort Worth, Texas, 76131"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.44200000000,32.71660000000 ]
+    },
+    "properties": {
+    "CONAME":"Scuba Diving Sch of Fort Worth",
+    "STREET":"Southwest Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":4,
+    "SALESVOL":0,
+    "DESC_":"Scuba Diving Sch of Fort Worth, Southwest Blvd, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.41160000000,32.71860000000 ]
+    },
+    "properties": {
+    "CONAME":"Miss Endy's Christian Academy",
+    "STREET":"Humbert Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":6,
+    "SALESVOL":0,
+    "DESC_":"Miss Endy's Christian Academy, Humbert Ave, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.41190000000,32.71860000000 ]
+    },
+    "properties": {
+    "CONAME":"Miss Endy's Christian Day Schl",
+    "STREET":"Humbert Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":61111004,
+    "SIC":"821101",
+    "EMPNUM":5,
+    "SALESVOL":0,
+    "DESC_":"Miss Endy's Christian Day Schl, Humbert Ave, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.43450000000,32.72010000000 ]
+    },
+    "properties": {
+    "CONAME":"Richard Milburn Academy",
+    "STREET":"Camp Bowie Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":16,
+    "SALESVOL":0,
+    "DESC_":"Richard Milburn Academy, Camp Bowie Blvd, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.42760000000,32.70450000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Isd",
+    "STREET":"Cumberland Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":70,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Isd, Cumberland Rd, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.41070000000,32.72120000000 ]
+    },
+    "properties": {
+    "CONAME":"Como Montessori",
+    "STREET":"Littlepage St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":50,
+    "SALESVOL":0,
+    "DESC_":"Como Montessori, Littlepage St, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.42730000000,32.72250000000 ]
+    },
+    "properties": {
+    "CONAME":"Montessori Childrens House",
+    "STREET":"Clayton Rd E",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":10,
+    "SALESVOL":0,
+    "DESC_":"Montessori Childrens House, Clayton Rd E, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.42760000000,32.70450000000 ]
+    },
+    "properties": {
+    "CONAME":"Ridglea Hills Elementary Schl",
+    "STREET":"Cumberland Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":80,
+    "SALESVOL":0,
+    "DESC_":"Ridglea Hills Elementary Schl, Cumberland Rd, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.46230000000,32.73500000000 ]
+    },
+    "properties": {
+    "CONAME":"Western Hills Elementary Schl",
+    "STREET":"Laredo Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":50,
+    "SALESVOL":0,
+    "DESC_":"Western Hills Elementary Schl, Laredo Dr, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.45870000000,32.73470000000 ]
+    },
+    "properties": {
+    "CONAME":"Western Hills Primary School",
+    "STREET":"Mojave Trl",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":90,
+    "SALESVOL":0,
+    "DESC_":"Western Hills Primary School, Mojave Trl, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.45550000000,32.72510000000 ]
+    },
+    "properties": {
+    "CONAME":"Willoughby House",
+    "STREET":"W Elizabeth Ln",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":15,
+    "SALESVOL":0,
+    "DESC_":"Willoughby House, W Elizabeth Ln, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.42740000000,32.73140000000 ]
+    },
+    "properties": {
+    "CONAME":"Mary Louise Phillips Elem Schl",
+    "STREET":"Bigham Blvd",
+    "CITY":"Benbrook",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":72,
+    "SALESVOL":0,
+    "DESC_":"Mary Louise Phillips Elem Schl, Bigham Blvd, Benbrook, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.41690000000,32.73670000000 ]
+    },
+    "properties": {
+    "CONAME":"Holy Family Catholic School",
+    "STREET":"Pershing Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":25,
+    "SALESVOL":0,
+    "DESC_":"Holy Family Catholic School, Pershing Ave, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.42810000000,32.72960000000 ]
+    },
+    "properties": {
+    "CONAME":"William Monnig Middle School",
+    "STREET":"Bigham Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":80,
+    "SALESVOL":0,
+    "DESC_":"William Monnig Middle School, Bigham Blvd, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.42300000000,32.72450000000 ]
+    },
+    "properties": {
+    "CONAME":"Premier High School",
+    "STREET":"Camp Bowie Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":12,
+    "SALESVOL":0,
+    "DESC_":"Premier High School, Camp Bowie Blvd, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.41660000000,32.72650000000 ]
+    },
+    "properties": {
+    "CONAME":"Spanish Schoolhouse",
+    "STREET":"Sunset Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":61111001,
+    "SIC":"821104",
+    "EMPNUM":2,
+    "SALESVOL":0,
+    "DESC_":"Spanish Schoolhouse, Sunset Dr, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36330000000,32.69490000000 ]
+    },
+    "properties": {
+    "CONAME":"St Andrew Catholic School",
+    "STREET":"Dryden Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":55,
+    "SALESVOL":0,
+    "DESC_":"St Andrew Catholic School, Dryden Rd, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35660000000,32.70730000000 ]
+    },
+    "properties": {
+    "CONAME":"Lady Margaret Roper School",
+    "STREET":"Lubbock Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":5,
+    "SALESVOL":0,
+    "DESC_":"Lady Margaret Roper School, Lubbock Ave, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.39320000000,32.69100000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Academy of Fine Art",
+    "STREET":"S Hulen St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":45,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Academy of Fine Art, S Hulen St, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36640000000,32.69330000000 ]
+    },
+    "properties": {
+    "CONAME":"Mc Lean Middle School",
+    "STREET":"Stadium Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":80,
+    "SALESVOL":0,
+    "DESC_":"Mc Lean Middle School, Stadium Dr, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36460000000,32.71260000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Isd",
+    "STREET":"W Cantey St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":22,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Isd, W Cantey St, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36640000000,32.69330000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Independent Sch Dst",
+    "STREET":"Stadium Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Independent Sch Dst, Stadium Dr, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38270000000,32.69950000000 ]
+    },
+    "properties": {
+    "CONAME":"Tanglewood Elementary School",
+    "STREET":"Overton Park Dr W",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":59,
+    "SALESVOL":0,
+    "DESC_":"Tanglewood Elementary School, Overton Park Dr W, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38630000000,32.70560000000 ]
+    },
+    "properties": {
+    "CONAME":"Joe Kelly Multi Grade Level",
+    "STREET":"Overton Park Dr W",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Joe Kelly Multi Grade Level, Overton Park Dr W, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.39320000000,32.69100000000 ]
+    },
+    "properties": {
+    "CONAME":"North Tx Elementary Sch",
+    "STREET":"S Hulen St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":55,
+    "SALESVOL":0,
+    "DESC_":"North Tx Elementary Sch, S Hulen St, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36050000000,32.70960000000 ]
+    },
+    "properties": {
+    "CONAME":"Mba Graduate Career Svc Ctr",
+    "STREET":"Lubbock",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76129,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":5,
+    "SALESVOL":0,
+    "DESC_":"Mba Graduate Career Svc Ctr, Lubbock, Fort Worth, Texas, 76129"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36400000000,32.69580000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Independent Sch",
+    "STREET":"South Hills Ave",
+    "CITY":"Benbrook",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Independent Sch, South Hills Ave, Benbrook, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.40900000000,32.72120000000 ]
+    },
+    "properties": {
+    "CONAME":"Como Elementary School",
+    "STREET":"Horne St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":65,
+    "SALESVOL":0,
+    "DESC_":"Como Elementary School, Horne St, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36460000000,32.71260000000 ]
+    },
+    "properties": {
+    "CONAME":"Alice Carlson Applied Learning",
+    "STREET":"W Cantey St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":35,
+    "SALESVOL":0,
+    "DESC_":"Alice Carlson Applied Learning, W Cantey St, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.40840000000,32.69300000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Country Day School",
+    "STREET":"Country Day Ln",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":61111013,
+    "SIC":"821109",
+    "EMPNUM":230,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Country Day School, Country Day Ln, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36110000000,32.71240000000 ]
+    },
+    "properties": {
+    "CONAME":"Weekday School",
+    "STREET":"S University Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Weekday School, S University Dr, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.39320000000,32.69100000000 ]
+    },
+    "properties": {
+    "CONAME":"Texas Boys Choir Inc",
+    "STREET":"S Hulen St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":45,
+    "SALESVOL":0,
+    "DESC_":"Texas Boys Choir Inc, S Hulen St, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36550000000,32.71210000000 ]
+    },
+    "properties": {
+    "CONAME":"Starpoint School",
+    "STREET":"Stadium Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":15,
+    "SALESVOL":0,
+    "DESC_":"Starpoint School, Stadium Dr, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.39950000000,32.73590000000 ]
+    },
+    "properties": {
+    "CONAME":"Reading Friends",
+    "STREET":"Pershing Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":14,
+    "SALESVOL":0,
+    "DESC_":"Reading Friends, Pershing Ave, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38590000000,32.73080000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Isd",
+    "STREET":"West Fwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":22,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Isd, West Fwy, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.39610000000,32.73730000000 ]
+    },
+    "properties": {
+    "CONAME":"Transition Center",
+    "STREET":"El Campo Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":36,
+    "SALESVOL":0,
+    "DESC_":"Transition Center, El Campo Ave, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38590000000,32.73080000000 ]
+    },
+    "properties": {
+    "CONAME":"Arlington Heights High School",
+    "STREET":"West Fwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":200,
+    "SALESVOL":0,
+    "DESC_":"Arlington Heights High School, West Fwy, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.39610000000,32.73730000000 ]
+    },
+    "properties": {
+    "CONAME":"Boulevard Heights School",
+    "STREET":"El Campo Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":52,
+    "SALESVOL":0,
+    "DESC_":"Boulevard Heights School, El Campo Ave, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37950000000,32.73400000000 ]
+    },
+    "properties": {
+    "CONAME":"South Hi Mt Elementary School",
+    "STREET":"Birchman Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":65,
+    "SALESVOL":0,
+    "DESC_":"South Hi Mt Elementary School, Birchman Ave, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37310000000,32.73180000000 ]
+    },
+    "properties": {
+    "CONAME":"Texas Academy-biomedical Scncs",
+    "STREET":"Valentine St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Texas Academy-biomedical Scncs, Valentine St, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37920000000,32.73800000000 ]
+    },
+    "properties": {
+    "CONAME":"Stripling Middle School P T a",
+    "STREET":"Clover Ln",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":100,
+    "SALESVOL":0,
+    "DESC_":"Stripling Middle School P T a, Clover Ln, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37420000000,32.75120000000 ]
+    },
+    "properties": {
+    "CONAME":"North Hi Mt Elementary School",
+    "STREET":"W 7th St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":45,
+    "SALESVOL":0,
+    "DESC_":"North Hi Mt Elementary School, W 7th St, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37000000000,32.74470000000 ]
+    },
+    "properties": {
+    "CONAME":"Museum School",
+    "STREET":"Montgomery St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Museum School, Montgomery St, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37420000000,32.75120000000 ]
+    },
+    "properties": {
+    "CONAME":"North High Mt Child Care",
+    "STREET":"W 7th St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"North High Mt Child Care, W 7th St, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.40960000000,32.82490000000 ]
+    },
+    "properties": {
+    "CONAME":"Marine Creek Elementary School",
+    "STREET":"Huffines Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76135,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":100,
+    "SALESVOL":0,
+    "DESC_":"Marine Creek Elementary School, Huffines Blvd, Fort Worth, Texas, 76135"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.45410000000,32.82280000000 ]
+    },
+    "properties": {
+    "CONAME":"Casino Beach Golf Academy",
+    "STREET":"Jacksboro Hwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76135,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Casino Beach Golf Academy, Jacksboro Hwy, Fort Worth, Texas, 76135"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33470000000,32.64880000000 ]
+    },
+    "properties": {
+    "CONAME":"Texas Elementary Schl-the Arts",
+    "STREET":"Village Pkwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76134,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":55,
+    "SALESVOL":0,
+    "DESC_":"Texas Elementary Schl-the Arts, Village Pkwy, Fort Worth, Texas, 76134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33470000000,32.64880000000 ]
+    },
+    "properties": {
+    "CONAME":"Texas School of the Arts",
+    "STREET":"Village Pkwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76134,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":32,
+    "SALESVOL":0,
+    "DESC_":"Texas School of the Arts, Village Pkwy, Fort Worth, Texas, 76134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34570000000,32.67280000000 ]
+    },
+    "properties": {
+    "CONAME":"Pinnacle Academy of Fine Arts",
+    "STREET":"James Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76115,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":20,
+    "SALESVOL":0,
+    "DESC_":"Pinnacle Academy of Fine Arts, James Ave, Fort Worth, Texas, 76115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32250000000,32.65790000000 ]
+    },
+    "properties": {
+    "CONAME":"Christian Life Preparatory",
+    "STREET":"South Fwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76134,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":35,
+    "SALESVOL":0,
+    "DESC_":"Christian Life Preparatory, South Fwy, Fort Worth, Texas, 76134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34730000000,32.67200000000 ]
+    },
+    "properties": {
+    "CONAME":"Seminary Hills Elementary Schl",
+    "STREET":"Townsend Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76115,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":65,
+    "SALESVOL":0,
+    "DESC_":"Seminary Hills Elementary Schl, Townsend Dr, Fort Worth, Texas, 76115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34040000000,32.68470000000 ]
+    },
+    "properties": {
+    "CONAME":"Rosemont Elementary School",
+    "STREET":"W Seminary Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76115,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Rosemont Elementary School, W Seminary Dr, Fort Worth, Texas, 76115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.31280000000,32.68350000000 ]
+    },
+    "properties": {
+    "CONAME":"Carter Park Elementary School",
+    "STREET":"E Broadus Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76115,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":65,
+    "SALESVOL":0,
+    "DESC_":"Carter Park Elementary School, E Broadus Ave, Fort Worth, Texas, 76115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34270000000,32.68370000000 ]
+    },
+    "properties": {
+    "CONAME":"Rosemont Middle School",
+    "STREET":"W Seminary Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76115,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":100,
+    "SALESVOL":0,
+    "DESC_":"Rosemont Middle School, W Seminary Dr, Fort Worth, Texas, 76115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33970000000,32.67840000000 ]
+    },
+    "properties": {
+    "CONAME":"Hubbard Elementary School",
+    "STREET":"W Spurgeon St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76115,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":98,
+    "SALESVOL":0,
+    "DESC_":"Hubbard Elementary School, W Spurgeon St, Fort Worth, Texas, 76115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.30730000000,32.68370000000 ]
+    },
+    "properties": {
+    "CONAME":"Campus Drive United Methodist",
+    "STREET":"E Seminary Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76115,
+    "NAICS":61111004,
+    "SIC":"821101",
+    "EMPNUM":6,
+    "SALESVOL":0,
+    "DESC_":"Campus Drive United Methodist, E Seminary Dr, Fort Worth, Texas, 76115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35560000000,32.67630000000 ]
+    },
+    "properties": {
+    "CONAME":"Cityview Academy",
+    "STREET":"Merida Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76115,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":22,
+    "SALESVOL":0,
+    "DESC_":"Cityview Academy, Merida Ave, Fort Worth, Texas, 76115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34440000000,32.66310000000 ]
+    },
+    "properties": {
+    "CONAME":"Greenbriar Elementary School",
+    "STREET":"Grady Lee St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76134,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":100,
+    "SALESVOL":0,
+    "DESC_":"Greenbriar Elementary School, Grady Lee St, Fort Worth, Texas, 76134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34720000000,32.66710000000 ]
+    },
+    "properties": {
+    "CONAME":"School of Renewal Inc",
+    "STREET":"Odell Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76115,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"School of Renewal Inc, Odell Dr, Fort Worth, Texas, 76115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34410000000,32.66180000000 ]
+    },
+    "properties": {
+    "CONAME":"Convergence School",
+    "STREET":"James Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76134,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Convergence School, James Ave, Fort Worth, Texas, 76134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.25490000000,32.68160000000 ]
+    },
+    "properties": {
+    "CONAME":"W M Green Elementary School",
+    "STREET":"David Strickland Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76119,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":84,
+    "SALESVOL":0,
+    "DESC_":"W M Green Elementary School, David Strickland Rd, Fort Worth, Texas, 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29580000000,32.68670000000 ]
+    },
+    "properties": {
+    "CONAME":"Clifford Davis Elementary Schl",
+    "STREET":"Campus Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76119,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":55,
+    "SALESVOL":0,
+    "DESC_":"Clifford Davis Elementary Schl, Campus Dr, Fort Worth, Texas, 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.27800000000,32.68850000000 ]
+    },
+    "properties": {
+    "CONAME":"Forest Oak Middle School",
+    "STREET":"Pecos St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76119,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":80,
+    "SALESVOL":0,
+    "DESC_":"Forest Oak Middle School, Pecos St, Fort Worth, Texas, 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29430000000,32.68270000000 ]
+    },
+    "properties": {
+    "CONAME":"O D Wyatt High School",
+    "STREET":"E Seminary Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76119,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":168,
+    "SALESVOL":0,
+    "DESC_":"O D Wyatt High School, E Seminary Dr, Fort Worth, Texas, 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34710000000,32.78020000000 ]
+    },
+    "properties": {
+    "CONAME":"M G Ellis Primary School",
+    "STREET":"Ne 14th St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76164,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":11,
+    "SALESVOL":0,
+    "DESC_":"M G Ellis Primary School, Ne 14th St, Fort Worth, Texas, 76164"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35430000000,32.77410000000 ]
+    },
+    "properties": {
+    "CONAME":"Forth",
+    "STREET":"Denver Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76164,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":40,
+    "SALESVOL":0,
+    "DESC_":"Forth, Denver Ave, Fort Worth, Texas, 76164"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35570000000,32.76220000000 ]
+    },
+    "properties": {
+    "CONAME":"Metro Opportunity High School",
+    "STREET":"Cullen St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":50,
+    "SALESVOL":0,
+    "DESC_":"Metro Opportunity High School, Cullen St, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35430000000,32.77410000000 ]
+    },
+    "properties": {
+    "CONAME":"Rufino Mendoza Elementary Schl",
+    "STREET":"Denver Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76164,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":24,
+    "SALESVOL":0,
+    "DESC_":"Rufino Mendoza Elementary Schl, Denver Ave, Fort Worth, Texas, 76164"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32930000000,32.76090000000 ]
+    },
+    "properties": {
+    "CONAME":"Three Three One Zero School",
+    "STREET":"E Bluff St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Three Three One Zero School, E Bluff St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32980000000,32.76230000000 ]
+    },
+    "properties": {
+    "CONAME":"Charles E Nash Elementary Schl",
+    "STREET":"Samuels Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":40,
+    "SALESVOL":0,
+    "DESC_":"Charles E Nash Elementary Schl, Samuels Ave, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.30680000000,32.78040000000 ]
+    },
+    "properties": {
+    "CONAME":"Oakhurst Elementary School",
+    "STREET":"Yucca Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76111,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":70,
+    "SALESVOL":0,
+    "DESC_":"Oakhurst Elementary School, Yucca Ave, Fort Worth, Texas, 76111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.31950000000,32.78220000000 ]
+    },
+    "properties": {
+    "CONAME":"Calvary Christian Academy",
+    "STREET":"Oakhurst Scenic Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76111,
+    "NAICS":61111004,
+    "SIC":"821101",
+    "EMPNUM":15,
+    "SALESVOL":0,
+    "DESC_":"Calvary Christian Academy, Oakhurst Scenic Dr, Fort Worth, Texas, 76111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.30530000000,32.75820000000 ]
+    },
+    "properties": {
+    "CONAME":"Versia L Williams Elementary",
+    "STREET":"Baurline St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76111,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Versia L Williams Elementary, Baurline St, Fort Worth, Texas, 76111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34230000000,32.80770000000 ]
+    },
+    "properties": {
+    "CONAME":"H V Helbing Elementary School",
+    "STREET":"N Crump St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76106,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":73,
+    "SALESVOL":0,
+    "DESC_":"H V Helbing Elementary School, N Crump St, Fort Worth, Texas, 76106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32570000000,32.81040000000 ]
+    },
+    "properties": {
+    "CONAME":"Cesar Chavez Primary School",
+    "STREET":"Deen Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76106,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Cesar Chavez Primary School, Deen Rd, Fort Worth, Texas, 76106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33670000000,32.80840000000 ]
+    },
+    "properties": {
+    "CONAME":"Diamond Hill-jarvis High Schl",
+    "STREET":"Maydell St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76106,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":90,
+    "SALESVOL":0,
+    "DESC_":"Diamond Hill-jarvis High Schl, Maydell St, Fort Worth, Texas, 76106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33340000000,32.80940000000 ]
+    },
+    "properties": {
+    "CONAME":"W a Meacham Middle School",
+    "STREET":"Weber St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76106,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":80,
+    "SALESVOL":0,
+    "DESC_":"W a Meacham Middle School, Weber St, Fort Worth, Texas, 76106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33330000000,32.81120000000 ]
+    },
+    "properties": {
+    "CONAME":"M H Moore Elementary School",
+    "STREET":"Ne 36th St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76106,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":45,
+    "SALESVOL":0,
+    "DESC_":"M H Moore Elementary School, Ne 36th St, Fort Worth, Texas, 76106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33120000000,32.79860000000 ]
+    },
+    "properties": {
+    "CONAME":"Diamond Hill Elementary School",
+    "STREET":"Dewey St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76106,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":90,
+    "SALESVOL":0,
+    "DESC_":"Diamond Hill Elementary School, Dewey St, Fort Worth, Texas, 76106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.25660000000,32.76130000000 ]
+    },
+    "properties": {
+    "CONAME":"Nolan Catholic High School",
+    "STREET":"Bridge St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76103,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":120,
+    "SALESVOL":0,
+    "DESC_":"Nolan Catholic High School, Bridge St, Fort Worth, Texas, 76103"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29780000000,32.77480000000 ]
+    },
+    "properties": {
+    "CONAME":"St George School",
+    "STREET":"Hudgins Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76111,
+    "NAICS":61111004,
+    "SIC":"821101",
+    "EMPNUM":18,
+    "SALESVOL":0,
+    "DESC_":"St George School, Hudgins Ave, Fort Worth, Texas, 76111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29880000000,32.78100000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Isd",
+    "STREET":"Yucca Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76111,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":22,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Isd, Yucca Ave, Fort Worth, Texas, 76111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29880000000,32.78100000000 ]
+    },
+    "properties": {
+    "CONAME":"Carter Amon-riverside High",
+    "STREET":"Yucca Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76111,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":145,
+    "SALESVOL":0,
+    "DESC_":"Carter Amon-riverside High, Yucca Ave, Fort Worth, Texas, 76111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.31460000000,32.73580000000 ]
+    },
+    "properties": {
+    "CONAME":"Our Mother-mercy Catholic Schl",
+    "STREET":"E Terrell Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":12,
+    "SALESVOL":0,
+    "DESC_":"Our Mother-mercy Catholic Schl, E Terrell Ave, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.31110000000,32.72490000000 ]
+    },
+    "properties": {
+    "CONAME":"Carroll Peak Elementary School",
+    "STREET":"E Jefferson Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Carroll Peak Elementary School, E Jefferson Ave, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32720000000,32.75360000000 ]
+    },
+    "properties": {
+    "CONAME":"Young Womens Leadership Acad",
+    "STREET":"E 8th St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Young Womens Leadership Acad, E 8th St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.31840000000,32.73870000000 ]
+    },
+    "properties": {
+    "CONAME":"Guinn Van Zandt Elementary",
+    "STREET":"Missouri Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":55,
+    "SALESVOL":0,
+    "DESC_":"Guinn Van Zandt Elementary, Missouri Ave, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.31450000000,32.74890000000 ]
+    },
+    "properties": {
+    "CONAME":"I M Terrell Elementary School",
+    "STREET":"I M Terrell Cir S",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":40,
+    "SALESVOL":0,
+    "DESC_":"I M Terrell Elementary School, I M Terrell Cir S, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.31210000000,32.74010000000 ]
+    },
+    "properties": {
+    "CONAME":"Ekklesia Christian School",
+    "STREET":"Bessie St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":4,
+    "SALESVOL":0,
+    "DESC_":"Ekklesia Christian School, Bessie St, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.31940000000,32.74040000000 ]
+    },
+    "properties": {
+    "CONAME":"Fortress Church",
+    "STREET":"Stella St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":61111004,
+    "SIC":"821101",
+    "EMPNUM":6,
+    "SALESVOL":0,
+    "DESC_":"Fortress Church, Stella St, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.26510000000,32.70700000000 ]
+    },
+    "properties": {
+    "CONAME":"Christine C Moss Elementary",
+    "STREET":"Eastland St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76119,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":62,
+    "SALESVOL":0,
+    "DESC_":"Christine C Moss Elementary, Eastland St, Fort Worth, Texas, 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.25200000000,32.70730000000 ]
+    },
+    "properties": {
+    "CONAME":"A M Pate Elementary School",
+    "STREET":"Anglin Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76119,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":70,
+    "SALESVOL":0,
+    "DESC_":"A M Pate Elementary School, Anglin Dr, Fort Worth, Texas, 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.25660000000,32.69330000000 ]
+    },
+    "properties": {
+    "CONAME":"Autumn Leaves Estate Sales",
+    "STREET":"Fairlane Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76119,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Autumn Leaves Estate Sales, Fairlane Ave, Fort Worth, Texas, 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29080000000,32.69310000000 ]
+    },
+    "properties": {
+    "CONAME":"Glencrest 6th Grade School",
+    "STREET":"Eastline Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76119,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":55,
+    "SALESVOL":0,
+    "DESC_":"Glencrest 6th Grade School, Eastline Dr, Fort Worth, Texas, 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.27480000000,32.71830000000 ]
+    },
+    "properties": {
+    "CONAME":"T a Sims Elementary School",
+    "STREET":"Crenshaw Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76105,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":85,
+    "SALESVOL":0,
+    "DESC_":"T a Sims Elementary School, Crenshaw Ave, Fort Worth, Texas, 76105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28800000000,32.70960000000 ]
+    },
+    "properties": {
+    "CONAME":"Mitchell Boulevard Elementary",
+    "STREET":"Mitchell Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76105,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Mitchell Boulevard Elementary, Mitchell Blvd, Fort Worth, Texas, 76105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.27080000000,32.68920000000 ]
+    },
+    "properties": {
+    "CONAME":"Glen Park Elementary School",
+    "STREET":"Pecos St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76119,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":80,
+    "SALESVOL":0,
+    "DESC_":"Glen Park Elementary School, Pecos St, Fort Worth, Texas, 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.27890000000,32.70210000000 ]
+    },
+    "properties": {
+    "CONAME":"Oaklawn Elementary School",
+    "STREET":"Hardeman St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76119,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Oaklawn Elementary School, Hardeman St, Fort Worth, Texas, 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28400000000,32.70880000000 ]
+    },
+    "properties": {
+    "CONAME":"Masonic Elementary School",
+    "STREET":"Wichita St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76119,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":31,
+    "SALESVOL":0,
+    "DESC_":"Masonic Elementary School, Wichita St, Fort Worth, Texas, 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.27400000000,32.71380000000 ]
+    },
+    "properties": {
+    "CONAME":"Learning As the Bible Speaks",
+    "STREET":"E Berry St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76105,
+    "NAICS":61111004,
+    "SIC":"821101",
+    "EMPNUM":15,
+    "SALESVOL":0,
+    "DESC_":"Learning As the Bible Speaks, E Berry St, Fort Worth, Texas, 76105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.30200000000,32.69180000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth State School",
+    "STREET":"S Riverside Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76119,
+    "NAICS":61111012,
+    "SIC":"821106",
+    "EMPNUM":2,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth State School, S Riverside Dr, Fort Worth, Texas, 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.25930000000,32.74460000000 ]
+    },
+    "properties": {
+    "CONAME":"Meadowbrook Elementary School",
+    "STREET":"Meadowbrook Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76103,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":85,
+    "SALESVOL":0,
+    "DESC_":"Meadowbrook Elementary School, Meadowbrook Dr, Fort Worth, Texas, 76103"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.26620000000,32.72330000000 ]
+    },
+    "properties": {
+    "CONAME":"S S Dillow Elementary School",
+    "STREET":"Avenue N",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76105,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"S S Dillow Elementary School, Avenue N, Fort Worth, Texas, 76105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28430000000,32.73410000000 ]
+    },
+    "properties": {
+    "CONAME":"William James Middle School",
+    "STREET":"Nashville Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76105,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":100,
+    "SALESVOL":0,
+    "DESC_":"William James Middle School, Nashville Ave, Fort Worth, Texas, 76105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28860000000,32.73310000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Isd",
+    "STREET":"Conner Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76105,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":22,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Isd, Conner Ave, Fort Worth, Texas, 76105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28880000000,32.72650000000 ]
+    },
+    "properties": {
+    "CONAME":"Uplift Education Mighty Prep",
+    "STREET":"S Beach St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76105,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":15,
+    "SALESVOL":0,
+    "DESC_":"Uplift Education Mighty Prep, S Beach St, Fort Worth, Texas, 76105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.26050000000,32.74690000000 ]
+    },
+    "properties": {
+    "CONAME":"Meadowbrook Middle School",
+    "STREET":"Ederville Rd S",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76103,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":80,
+    "SALESVOL":0,
+    "DESC_":"Meadowbrook Middle School, Ederville Rd S, Fort Worth, Texas, 76103"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.27780000000,32.72350000000 ]
+    },
+    "properties": {
+    "CONAME":"D Mc Rae Elementary School",
+    "STREET":"Avenue N",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76105,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":101,
+    "SALESVOL":0,
+    "DESC_":"D Mc Rae Elementary School, Avenue N, Fort Worth, Texas, 76105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28860000000,32.73310000000 ]
+    },
+    "properties": {
+    "CONAME":"Polytechnic Senior High School",
+    "STREET":"Conner Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76105,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":130,
+    "SALESVOL":0,
+    "DESC_":"Polytechnic Senior High School, Conner Ave, Fort Worth, Texas, 76105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29850000000,32.74510000000 ]
+    },
+    "properties": {
+    "CONAME":"Itop Christian Academy",
+    "STREET":"E Lancaster Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76103,
+    "NAICS":61111004,
+    "SIC":"821101",
+    "EMPNUM":7,
+    "SALESVOL":0,
+    "DESC_":"Itop Christian Academy, E Lancaster Ave, Fort Worth, Texas, 76103"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.25840000000,32.75140000000 ]
+    },
+    "properties": {
+    "CONAME":"East Fort Worth Montessori Acd",
+    "STREET":"",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76103,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"East Fort Worth Montessori Acd,  , Fort Worth, Texas, 76103"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.26540000000,32.73260000000 ]
+    },
+    "properties": {
+    "CONAME":"Uplift Mighty Preparatory",
+    "STREET":"Mighty Mite Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76105,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":15,
+    "SALESVOL":0,
+    "DESC_":"Uplift Mighty Preparatory, Mighty Mite Dr, Fort Worth, Texas, 76105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.25590000000,32.73660000000 ]
+    },
+    "properties": {
+    "CONAME":"Sangamore Hill Elementary Schl",
+    "STREET":"S Hughes Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76103,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":75,
+    "SALESVOL":0,
+    "DESC_":"Sangamore Hill Elementary Schl, S Hughes Ave, Fort Worth, Texas, 76103"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35170000000,32.78130000000 ]
+    },
+    "properties": {
+    "CONAME":"All Saints Catholic School",
+    "STREET":"N Houston St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76164,
+    "NAICS":61111004,
+    "SIC":"821101",
+    "EMPNUM":20,
+    "SALESVOL":0,
+    "DESC_":"All Saints Catholic School, N Houston St, Fort Worth, Texas, 76164"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.30010000000,32.78370000000 ]
+    },
+    "properties": {
+    "CONAME":"Riverside Middle School",
+    "STREET":"Bolton St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76111,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":75,
+    "SALESVOL":0,
+    "DESC_":"Riverside Middle School, Bolton St, Fort Worth, Texas, 76111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29680000000,32.79770000000 ]
+    },
+    "properties": {
+    "CONAME":"Bonnie Bray Elementary",
+    "STREET":"Kimbo Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76111,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Bonnie Bray Elementary, Kimbo Rd, Fort Worth, Texas, 76111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.30020000000,32.79250000000 ]
+    },
+    "properties": {
+    "CONAME":"Springdale Elementary School",
+    "STREET":"Hollis St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76111,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Springdale Elementary School, Hollis St, Fort Worth, Texas, 76111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29570000000,32.80330000000 ]
+    },
+    "properties": {
+    "CONAME":"Riverside Applied Learning Ctr",
+    "STREET":"Fossil Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76111,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":35,
+    "SALESVOL":0,
+    "DESC_":"Riverside Applied Learning Ctr, Fossil Dr, Fort Worth, Texas, 76111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.23110000000,32.71920000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Isd",
+    "STREET":"Ramey Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":22,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Isd, Ramey Ave, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.22990000000,32.72130000000 ]
+    },
+    "properties": {
+    "CONAME":"Maudrie M Walton Elementary",
+    "STREET":"Rickenbacker Pl",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":65,
+    "SALESVOL":0,
+    "DESC_":"Maudrie M Walton Elementary, Rickenbacker Pl, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.24390000000,32.72270000000 ]
+    },
+    "properties": {
+    "CONAME":"Maude I Logan Elementary Schl",
+    "STREET":"Dillard St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76105,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":75,
+    "SALESVOL":0,
+    "DESC_":"Maude I Logan Elementary Schl, Dillard St, Fort Worth, Texas, 76105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.23110000000,32.71920000000 ]
+    },
+    "properties": {
+    "CONAME":"Dunbar High School",
+    "STREET":"Ramey Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":150,
+    "SALESVOL":0,
+    "DESC_":"Dunbar High School, Ramey Ave, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.23790000000,32.71310000000 ]
+    },
+    "properties": {
+    "CONAME":"Sunrise-mc Millian Elementary",
+    "STREET":"Stalcup Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76119,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Sunrise-mc Millian Elementary, Stalcup Rd, Fort Worth, Texas, 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.23760000000,32.72060000000 ]
+    },
+    "properties": {
+    "CONAME":"Dunbar Middle School",
+    "STREET":"Stalcup Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76119,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":100,
+    "SALESVOL":0,
+    "DESC_":"Dunbar Middle School, Stalcup Rd, Fort Worth, Texas, 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.23290000000,32.70450000000 ]
+    },
+    "properties": {
+    "CONAME":"Key School Inc",
+    "STREET":"E Loop 820 S",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76119,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":45,
+    "SALESVOL":0,
+    "DESC_":"Key School Inc, E Loop 820 S, Fort Worth, Texas, 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.23100000000,32.74820000000 ]
+    },
+    "properties": {
+    "CONAME":"Eastern Hills Elementary Schl",
+    "STREET":"Shelton St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":80,
+    "SALESVOL":0,
+    "DESC_":"Eastern Hills Elementary Schl, Shelton St, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.23470000000,32.73690000000 ]
+    },
+    "properties": {
+    "CONAME":"St Rita's School",
+    "STREET":"Weiler Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":61111004,
+    "SIC":"821101",
+    "EMPNUM":26,
+    "SALESVOL":0,
+    "DESC_":"St Rita's School, Weiler Blvd, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.20870000000,32.75200000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Isd",
+    "STREET":"Barron Ln",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":22,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Isd, Barron Ln, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.24430000000,32.72560000000 ]
+    },
+    "properties": {
+    "CONAME":"Dunbar-6th Grade Middle School",
+    "STREET":"Willie St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76105,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Dunbar-6th Grade Middle School, Willie St, Fort Worth, Texas, 76105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.22960000000,32.73760000000 ]
+    },
+    "properties": {
+    "CONAME":"Professional Academy Christian",
+    "STREET":"Canton Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":14,
+    "SALESVOL":0,
+    "DESC_":"Professional Academy Christian, Canton Dr, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.21350000000,32.75720000000 ]
+    },
+    "properties": {
+    "CONAME":"Zion Prep Academy",
+    "STREET":"Po Box 8744",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76124,
+    "NAICS":61111004,
+    "SIC":"821101",
+    "EMPNUM":15,
+    "SALESVOL":0,
+    "DESC_":"Zion Prep Academy, Po Box 8744, Fort Worth, Texas, 76124"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.21990000000,32.73610000000 ]
+    },
+    "properties": {
+    "CONAME":"Jean Mc Clung Middle School",
+    "STREET":"Forest Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":72,
+    "SALESVOL":0,
+    "DESC_":"Jean Mc Clung Middle School, Forest Ave, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.20870000000,32.75200000000 ]
+    },
+    "properties": {
+    "CONAME":"Mc Donald Atwood Elementary",
+    "STREET":"Barron Ln",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Mc Donald Atwood Elementary, Barron Ln, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.23240000000,32.74610000000 ]
+    },
+    "properties": {
+    "CONAME":"Ft Worth Adult Education Ctr",
+    "STREET":"Meadowbrook Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":22,
+    "SALESVOL":0,
+    "DESC_":"Ft Worth Adult Education Ctr, Meadowbrook Dr, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.23350000000,32.74750000000 ]
+    },
+    "properties": {
+    "CONAME":"Eastern Hills High School",
+    "STREET":"Shelton St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":165,
+    "SALESVOL":0,
+    "DESC_":"Eastern Hills High School, Shelton St, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.20680000000,32.74120000000 ]
+    },
+    "properties": {
+    "CONAME":"East Handley Elementary School",
+    "STREET":"Mims St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":50,
+    "SALESVOL":0,
+    "DESC_":"East Handley Elementary School, Mims St, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.24430000000,32.72560000000 ]
+    },
+    "properties": {
+    "CONAME":"Young Mens Ledership Academy",
+    "STREET":"Willie St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76105,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":30,
+    "SALESVOL":0,
+    "DESC_":"Young Mens Ledership Academy, Willie St, Fort Worth, Texas, 76105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.22700000000,32.74010000000 ]
+    },
+    "properties": {
+    "CONAME":"West Handley Elementary School",
+    "STREET":"Putnam St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":70,
+    "SALESVOL":0,
+    "DESC_":"West Handley Elementary School, Putnam St, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.17630000000,32.74740000000 ]
+    },
+    "properties": {
+    "CONAME":"St Ignatius College Prep",
+    "STREET":"Shelton Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76120,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":19,
+    "SALESVOL":0,
+    "DESC_":"St Ignatius College Prep, Shelton Dr, Fort Worth, Texas, 76120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.18110000000,32.74220000000 ]
+    },
+    "properties": {
+    "CONAME":"Bill J Elliott Elementary",
+    "STREET":"Cooks Ln",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76120,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Bill J Elliott Elementary, Cooks Ln, Fort Worth, Texas, 76120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.18800000000,32.73910000000 ]
+    },
+    "properties": {
+    "CONAME":"Handley Middle School",
+    "STREET":"Patino Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76112,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":89,
+    "SALESVOL":0,
+    "DESC_":"Handley Middle School, Patino Rd, Fort Worth, Texas, 76112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.20780000000,32.77870000000 ]
+    },
+    "properties": {
+    "CONAME":"Temple Christian School",
+    "STREET":"Randol Mill Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76120,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":50,
+    "SALESVOL":0,
+    "DESC_":"Temple Christian School, Randol Mill Rd, Fort Worth, Texas, 76120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.19800000000,32.76490000000 ]
+    },
+    "properties": {
+    "CONAME":"John T White Elementary School",
+    "STREET":"John T White Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76120,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":59,
+    "SALESVOL":0,
+    "DESC_":"John T White Elementary School, John T White Rd, Fort Worth, Texas, 76120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33490000000,32.69180000000 ]
+    },
+    "properties": {
+    "CONAME":"Richard J Wilson Elementary",
+    "STREET":"W Fogg St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76110,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":65,
+    "SALESVOL":0,
+    "DESC_":"Richard J Wilson Elementary, W Fogg St, Fort Worth, Texas, 76110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35270000000,32.69180000000 ]
+    },
+    "properties": {
+    "CONAME":"West Academy",
+    "STREET":"Mccart Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76110,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":7,
+    "SALESVOL":0,
+    "DESC_":"West Academy, Mccart Ave, Fort Worth, Texas, 76110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35340000000,32.70500000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Independent Sch Dst",
+    "STREET":"Mccart Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76110,
+    "NAICS":61111018,
+    "SIC":"821120",
+    "EMPNUM":50,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Independent Sch Dst, Mccart Ave, Fort Worth, Texas, 76110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33330000000,32.71800000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Isd",
+    "STREET":"Lipscomb St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76110,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":22,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Isd, Lipscomb St, Fort Worth, Texas, 76110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35080000000,32.70790000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Isd",
+    "STREET":"Forest Park Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76110,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":22,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Isd, Forest Park Blvd, Fort Worth, Texas, 76110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33250000000,32.71810000000 ]
+    },
+    "properties": {
+    "CONAME":"Daggett Montessori School",
+    "STREET":"W Jessamine St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76110,
+    "NAICS":61111003,
+    "SIC":"821105",
+    "EMPNUM":68,
+    "SALESVOL":0,
+    "DESC_":"Daggett Montessori School, W Jessamine St, Fort Worth, Texas, 76110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33330000000,32.70680000000 ]
+    },
+    "properties": {
+    "CONAME":"Travis Avenue Baptist School",
+    "STREET":"W Berry St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76110,
+    "NAICS":61111004,
+    "SIC":"821101",
+    "EMPNUM":15,
+    "SALESVOL":0,
+    "DESC_":"Travis Avenue Baptist School, W Berry St, Fort Worth, Texas, 76110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35080000000,32.70790000000 ]
+    },
+    "properties": {
+    "CONAME":"R L Paschal High School",
+    "STREET":"Forest Park Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76110,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":90,
+    "SALESVOL":0,
+    "DESC_":"R L Paschal High School, Forest Park Blvd, Fort Worth, Texas, 76110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35390000000,32.69130000000 ]
+    },
+    "properties": {
+    "CONAME":"Rosemont Sixth Grade School",
+    "STREET":"Mccart Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76110,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":54,
+    "SALESVOL":0,
+    "DESC_":"Rosemont Sixth Grade School, Mccart Ave, Fort Worth, Texas, 76110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33450000000,32.71660000000 ]
+    },
+    "properties": {
+    "CONAME":"E M Daggett Elementary School",
+    "STREET":"Page Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76110,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":85,
+    "SALESVOL":0,
+    "DESC_":"E M Daggett Elementary School, Page Ave, Fort Worth, Texas, 76110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33320000000,32.70050000000 ]
+    },
+    "properties": {
+    "CONAME":"Our Lady-victory Catholic Schl",
+    "STREET":"Hemphill St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76110,
+    "NAICS":61111004,
+    "SIC":"821101",
+    "EMPNUM":20,
+    "SALESVOL":0,
+    "DESC_":"Our Lady-victory Catholic Schl, Hemphill St, Fort Worth, Texas, 76110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33850000000,32.70210000000 ]
+    },
+    "properties": {
+    "CONAME":"George C Clarke Elementary",
+    "STREET":"S Henderson St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76110,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":100,
+    "SALESVOL":0,
+    "DESC_":"George C Clarke Elementary, S Henderson St, Fort Worth, Texas, 76110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.31120000000,32.71180000000 ]
+    },
+    "properties": {
+    "CONAME":"Morningside Middle School",
+    "STREET":"Mississippi Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":84,
+    "SALESVOL":0,
+    "DESC_":"Morningside Middle School, Mississippi Ave, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32200000000,32.69610000000 ]
+    },
+    "properties": {
+    "CONAME":"Worth Heights Elementary Schl",
+    "STREET":"E Butler St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76110,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":95,
+    "SALESVOL":0,
+    "DESC_":"Worth Heights Elementary Schl, E Butler St, Fort Worth, Texas, 76110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32590000000,32.69190000000 ]
+    },
+    "properties": {
+    "CONAME":"Trinity Basin Preparatory",
+    "STREET":"E Pafford St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76110,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":15,
+    "SALESVOL":0,
+    "DESC_":"Trinity Basin Preparatory, E Pafford St, Fort Worth, Texas, 76110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32670000000,32.69110000000 ]
+    },
+    "properties": {
+    "CONAME":"Trinity Basin Preparatory Inc",
+    "STREET":"W Fogg St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76110,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":15,
+    "SALESVOL":0,
+    "DESC_":"Trinity Basin Preparatory Inc, W Fogg St, Fort Worth, Texas, 76110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.30720000000,32.71160000000 ]
+    },
+    "properties": {
+    "CONAME":"Edward J Briscoe Elementary",
+    "STREET":"Yuma Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":63,
+    "SALESVOL":0,
+    "DESC_":"Edward J Briscoe Elementary, Yuma Ave, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.31710000000,32.71430000000 ]
+    },
+    "properties": {
+    "CONAME":"Morningside Elementary School",
+    "STREET":"Evans Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":55,
+    "SALESVOL":0,
+    "DESC_":"Morningside Elementary School, Evans Ave, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33200000000,32.72900000000 ]
+    },
+    "properties": {
+    "CONAME":"Cassata High School",
+    "STREET":"Hemphill St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":16,
+    "SALESVOL":0,
+    "DESC_":"Cassata High School, Hemphill St, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34820000000,32.72720000000 ]
+    },
+    "properties": {
+    "CONAME":"Lily B Clayton Elementary Sch",
+    "STREET":"Park Place Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76110,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":55,
+    "SALESVOL":0,
+    "DESC_":"Lily B Clayton Elementary Sch, Park Place Ave, Fort Worth, Texas, 76110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33640000000,32.73570000000 ]
+    },
+    "properties": {
+    "CONAME":"Success High School",
+    "STREET":"W Cannon St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":40,
+    "SALESVOL":0,
+    "DESC_":"Success High School, W Cannon St, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33640000000,32.73570000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Isd",
+    "STREET":"W Cannon St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":175,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Isd, W Cannon St, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33640000000,32.73110000000 ]
+    },
+    "properties": {
+    "CONAME":"Young Women's Leadership Acad",
+    "STREET":"W Magnolia Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":72,
+    "SALESVOL":0,
+    "DESC_":"Young Women's Leadership Acad, W Magnolia Ave, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33460000000,32.72840000000 ]
+    },
+    "properties": {
+    "CONAME":"De Zavala Elementary School",
+    "STREET":"College Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"De Zavala Elementary School, College Ave, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33640000000,32.73570000000 ]
+    },
+    "properties": {
+    "CONAME":"Trimble Technical High School",
+    "STREET":"W Cannon St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76104,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":176,
+    "SALESVOL":0,
+    "DESC_":"Trimble Technical High School, W Cannon St, Fort Worth, Texas, 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34550000000,32.74170000000 ]
+    },
+    "properties": {
+    "CONAME":"St Paul Lutheran School",
+    "STREET":"West Fwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":61111004,
+    "SIC":"821101",
+    "EMPNUM":50,
+    "SALESVOL":0,
+    "DESC_":"St Paul Lutheran School, West Fwy, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34040000000,32.74780000000 ]
+    },
+    "properties": {
+    "CONAME":"Child Study Ctr",
+    "STREET":"W Lancaster Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":61111010,
+    "SIC":"821107",
+    "EMPNUM":75,
+    "SALESVOL":0,
+    "DESC_":"Child Study Ctr, W Lancaster Ave, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33330000000,32.75770000000 ]
+    },
+    "properties": {
+    "CONAME":"Memorable Moments",
+    "STREET":"",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Memorable Moments,  , Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35480000000,32.83920000000 ]
+    },
+    "properties": {
+    "CONAME":"Boswell Agricultural Farm",
+    "STREET":"Jim Wright Fwy Nw",
+    "CITY":"Saginaw",
+    "STATE_NAME":"Texas",
+    "ZIP":76179,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":90,
+    "SALESVOL":0,
+    "DESC_":"Boswell Agricultural Farm, Jim Wright Fwy Nw, Saginaw, Texas, 76179"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29040000000,32.82740000000 ]
+    },
+    "properties": {
+    "CONAME":"Bethesda Christian School",
+    "STREET":"N Beach St",
+    "CITY":"Haltom City",
+    "STATE_NAME":"Texas",
+    "ZIP":76137,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Bethesda Christian School, N Beach St, Haltom City, Texas, 76137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29460000000,32.86610000000 ]
+    },
+    "properties": {
+    "CONAME":"Parkview Elementary School",
+    "STREET":"Bayberry Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76137,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":80,
+    "SALESVOL":0,
+    "DESC_":"Parkview Elementary School, Bayberry Dr, Fort Worth, Texas, 76137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29420000000,32.89080000000 ]
+    },
+    "properties": {
+    "CONAME":"Fossil Ridge High School",
+    "STREET":"Thompson Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":200,
+    "SALESVOL":0,
+    "DESC_":"Fossil Ridge High School, Thompson Rd, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.30120000000,32.87770000000 ]
+    },
+    "properties": {
+    "CONAME":"Keller Isd",
+    "STREET":"Staghorn Cir S",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76137,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Keller Isd, Staghorn Cir S, Fort Worth, Texas, 76137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.27490000000,32.88060000000 ]
+    },
+    "properties": {
+    "CONAME":"Park Glen Elementary School",
+    "STREET":"Glen Canyon Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76137,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":67,
+    "SALESVOL":0,
+    "DESC_":"Park Glen Elementary School, Glen Canyon Rd, Fort Worth, Texas, 76137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.26190000000,32.88920000000 ]
+    },
+    "properties": {
+    "CONAME":"Hillwood Middle School",
+    "STREET":"Parkwood Hill Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76137,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":100,
+    "SALESVOL":0,
+    "DESC_":"Hillwood Middle School, Parkwood Hill Blvd, Fort Worth, Texas, 76137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.27820000000,32.87710000000 ]
+    },
+    "properties": {
+    "CONAME":"Cambridge Christian Academy",
+    "STREET":"Caribou Ct",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76137,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":7,
+    "SALESVOL":0,
+    "DESC_":"Cambridge Christian Academy, Caribou Ct, Fort Worth, Texas, 76137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.27700000000,32.86670000000 ]
+    },
+    "properties": {
+    "CONAME":"Bluebonnet Elementary School",
+    "STREET":"Teal Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76137,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":80,
+    "SALESVOL":0,
+    "DESC_":"Bluebonnet Elementary School, Teal Dr, Fort Worth, Texas, 76137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.30120000000,32.87770000000 ]
+    },
+    "properties": {
+    "CONAME":"Fossil Hill Middle School",
+    "STREET":"Staghorn Cir S",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76137,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":72,
+    "SALESVOL":0,
+    "DESC_":"Fossil Hill Middle School, Staghorn Cir S, Fort Worth, Texas, 76137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.26540000000,32.88860000000 ]
+    },
+    "properties": {
+    "CONAME":"Parkwood Hill Intermediate",
+    "STREET":"Parkwood Hill Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76137,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":101,
+    "SALESVOL":0,
+    "DESC_":"Parkwood Hill Intermediate, Parkwood Hill Blvd, Fort Worth, Texas, 76137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.27820000000,32.87710000000 ]
+    },
+    "properties": {
+    "CONAME":"Cambridge Chrisitan Academy",
+    "STREET":"Caribou Ct",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76137,
+    "NAICS":61111004,
+    "SIC":"821101",
+    "EMPNUM":15,
+    "SALESVOL":0,
+    "DESC_":"Cambridge Chrisitan Academy, Caribou Ct, Fort Worth, Texas, 76137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.30110000000,32.88720000000 ]
+    },
+    "properties": {
+    "CONAME":"Chisholm Trail Intermediate",
+    "STREET":"Summerfields Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76137,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":10,
+    "SALESVOL":0,
+    "DESC_":"Chisholm Trail Intermediate, Summerfields Blvd, Fort Worth, Texas, 76137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29600000000,32.89320000000 ]
+    },
+    "properties": {
+    "CONAME":"Heritage Elementary School",
+    "STREET":"Thompson Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":115,
+    "SALESVOL":0,
+    "DESC_":"Heritage Elementary School, Thompson Rd, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.30440000000,32.90940000000 ]
+    },
+    "properties": {
+    "CONAME":"Bette Perot Elementary School",
+    "STREET":"General Worth Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":70,
+    "SALESVOL":0,
+    "DESC_":"Bette Perot Elementary School, General Worth Dr, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.31500000000,32.94210000000 ]
+    },
+    "properties": {
+    "CONAME":"Northwest High School",
+    "STREET":"",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76177,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":22,
+    "SALESVOL":0,
+    "DESC_":"Northwest High School,  , Fort Worth, Texas, 76177"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33010000000,32.92670000000 ]
+    },
+    "properties": {
+    "CONAME":"O a Peterson Elementary",
+    "STREET":"Winter Hawk Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76177,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"O a Peterson Elementary, Winter Hawk Dr, Fort Worth, Texas, 76177"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.30440000000,32.90940000000 ]
+    },
+    "properties": {
+    "CONAME":"Keller Independent School Dist",
+    "STREET":"General Worth Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Keller Independent School Dist, General Worth Dr, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28160000000,32.90200000000 ]
+    },
+    "properties": {
+    "CONAME":"Children's Lighthouse-heritage",
+    "STREET":"Shiver Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":29,
+    "SALESVOL":0,
+    "DESC_":"Children's Lighthouse-heritage, Shiver Rd, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.26850000000,32.91810000000 ]
+    },
+    "properties": {
+    "CONAME":"Freedom Elementary School",
+    "STREET":"Wall Price Keller Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":75,
+    "SALESVOL":0,
+    "DESC_":"Freedom Elementary School, Wall Price Keller Rd, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.26860000000,32.90920000000 ]
+    },
+    "properties": {
+    "CONAME":"Central High School",
+    "STREET":"Ray White Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":90,
+    "SALESVOL":0,
+    "DESC_":"Central High School, Ray White Rd, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28420000000,32.92250000000 ]
+    },
+    "properties": {
+    "CONAME":"North Texas Leadership Academy",
+    "STREET":"Alta Vista Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"North Texas Leadership Academy, Alta Vista Rd, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28550000000,32.90330000000 ]
+    },
+    "properties": {
+    "CONAME":"Lone Star Elementary School",
+    "STREET":"Shiver Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":80,
+    "SALESVOL":0,
+    "DESC_":"Lone Star Elementary School, Shiver Rd, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28680000000,32.91700000000 ]
+    },
+    "properties": {
+    "CONAME":"Eagle Ridge Elementary School",
+    "STREET":"Alta Vista Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":43,
+    "SALESVOL":0,
+    "DESC_":"Eagle Ridge Elementary School, Alta Vista Rd, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.26820000000,32.90080000000 ]
+    },
+    "properties": {
+    "CONAME":"Friendship Elementary School",
+    "STREET":"Shiver Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Friendship Elementary School, Shiver Rd, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28070000000,32.90960000000 ]
+    },
+    "properties": {
+    "CONAME":"Keller Isd",
+    "STREET":"Van Zandt Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Keller Isd, Van Zandt Dr, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.29590000000,32.91690000000 ]
+    },
+    "properties": {
+    "CONAME":"International Leadership of Tx",
+    "STREET":"Heritage Trace Pkwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"International Leadership of Tx, Heritage Trace Pkwy, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.26230000000,32.94650000000 ]
+    },
+    "properties": {
+    "CONAME":"Woodland Springs Elementary",
+    "STREET":"Woodland Springs Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Woodland Springs Elementary, Woodland Springs Dr, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28820000000,32.94950000000 ]
+    },
+    "properties": {
+    "CONAME":"Timbercreek High School",
+    "STREET":"Timberland Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":90,
+    "SALESVOL":0,
+    "DESC_":"Timbercreek High School, Timberland Blvd, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28360000000,32.93890000000 ]
+    },
+    "properties": {
+    "CONAME":"Trinity Springs Middle School",
+    "STREET":"Keller Hicks Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":90,
+    "SALESVOL":0,
+    "DESC_":"Trinity Springs Middle School, Keller Hicks Rd, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28580000000,32.93740000000 ]
+    },
+    "properties": {
+    "CONAME":"Trinity Meadows Intermediate",
+    "STREET":"Keller Hicks Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":100,
+    "SALESVOL":0,
+    "DESC_":"Trinity Meadows Intermediate, Keller Hicks Rd, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.27460000000,32.94410000000 ]
+    },
+    "properties": {
+    "CONAME":"Independence Elementary School",
+    "STREET":"Bray Birch Ln",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":40,
+    "SALESVOL":0,
+    "DESC_":"Independence Elementary School, Bray Birch Ln, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28970000000,32.95790000000 ]
+    },
+    "properties": {
+    "CONAME":"Kay Granger Elementary School",
+    "STREET":"Saratoga Springs Cir",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":70,
+    "SALESVOL":0,
+    "DESC_":"Kay Granger Elementary School, Saratoga Springs Cir, Fort Worth, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.28000000000,32.93140000000 ]
+    },
+    "properties": {
+    "CONAME":"Watkins Driver Education Schl",
+    "STREET":"Po Box 866",
+    "CITY":"Keller",
+    "STATE_NAME":"Texas",
+    "ZIP":76244,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Watkins Driver Education Schl, Po Box 866, Keller, Texas, 76244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.09460000000,32.82240000000 ]
+    },
+    "properties": {
+    "CONAME":"Mid-cities Learning Ctr Inc",
+    "STREET":"S Pipeline Rd",
+    "CITY":"Euless",
+    "STATE_NAME":"Texas",
+    "ZIP":76040,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Mid-cities Learning Ctr Inc, S Pipeline Rd, Euless, Texas, 76040"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.42710000000,32.65450000000 ]
+    },
+    "properties": {
+    "CONAME":"Trinity Valley School",
+    "STREET":"Dutch Branch Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76132,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":135,
+    "SALESVOL":0,
+    "DESC_":"Trinity Valley School, Dutch Branch Rd, Fort Worth, Texas, 76132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.42160000000,32.65150000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Academy",
+    "STREET":"Dutch Branch Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76132,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":45,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Academy, Dutch Branch Rd, Fort Worth, Texas, 76132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.42820000000,32.66370000000 ]
+    },
+    "properties": {
+    "CONAME":"St Peters Classical School",
+    "STREET":"Bellaire Dr S",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76132,
+    "NAICS":61111004,
+    "SIC":"821101",
+    "EMPNUM":17,
+    "SALESVOL":0,
+    "DESC_":"St Peters Classical School, Bellaire Dr S, Fort Worth, Texas, 76132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.41160000000,32.65440000000 ]
+    },
+    "properties": {
+    "CONAME":"Oakmont Elementary School",
+    "STREET":"Oakmont Trl",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76132,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":80,
+    "SALESVOL":0,
+    "DESC_":"Oakmont Elementary School, Oakmont Trl, Fort Worth, Texas, 76132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.40600000000,32.64940000000 ]
+    },
+    "properties": {
+    "CONAME":"Southwest Christian School Inc",
+    "STREET":"Dan Danciger Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":61111004,
+    "SIC":"821101",
+    "EMPNUM":65,
+    "SALESVOL":0,
+    "DESC_":"Southwest Christian School Inc, Dan Danciger Rd, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38060000000,32.65290000000 ]
+    },
+    "properties": {
+    "CONAME":"Southwest High School",
+    "STREET":"Altamesa Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":174,
+    "SALESVOL":0,
+    "DESC_":"Southwest High School, Altamesa Blvd, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38320000000,32.66480000000 ]
+    },
+    "properties": {
+    "CONAME":"Bruce Shulkey Elementary Schl",
+    "STREET":"Whitman Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":70,
+    "SALESVOL":0,
+    "DESC_":"Bruce Shulkey Elementary Schl, Whitman Ave, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38660000000,32.67680000000 ]
+    },
+    "properties": {
+    "CONAME":"Wedgwood Sixth Grade",
+    "STREET":"Belden Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76132,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Wedgwood Sixth Grade, Belden Ave, Fort Worth, Texas, 76132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.39370000000,32.65430000000 ]
+    },
+    "properties": {
+    "CONAME":"J T Stevens Elementary School",
+    "STREET":"Wrigley Way",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":75,
+    "SALESVOL":0,
+    "DESC_":"J T Stevens Elementary School, Wrigley Way, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.40130000000,32.68800000000 ]
+    },
+    "properties": {
+    "CONAME":"All Saints Episcopal School",
+    "STREET":"International Plz",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":61111004,
+    "SIC":"821101",
+    "EMPNUM":15,
+    "SALESVOL":0,
+    "DESC_":"All Saints Episcopal School, International Plz, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.39420000000,32.68740000000 ]
+    },
+    "properties": {
+    "CONAME":"Jewish Education Agency",
+    "STREET":"S Hulen St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":25,
+    "SALESVOL":0,
+    "DESC_":"Jewish Education Agency, S Hulen St, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36270000000,32.67690000000 ]
+    },
+    "properties": {
+    "CONAME":"Hill School",
+    "STREET":"Odessa Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":61111010,
+    "SIC":"821107",
+    "EMPNUM":55,
+    "SALESVOL":0,
+    "DESC_":"Hill School, Odessa Ave, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37870000000,32.65910000000 ]
+    },
+    "properties": {
+    "CONAME":"Ft Worth Independent School",
+    "STREET":"Wilkie Way",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Ft Worth Independent School, Wilkie Way, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37660000000,32.66050000000 ]
+    },
+    "properties": {
+    "CONAME":"Hillel Academy-tarrant County",
+    "STREET":"Woodway Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Hillel Academy-tarrant County, Woodway Dr, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36450000000,32.66220000000 ]
+    },
+    "properties": {
+    "CONAME":"Westcreek Elementary School",
+    "STREET":"Walton Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":75,
+    "SALESVOL":0,
+    "DESC_":"Westcreek Elementary School, Walton Ave, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37870000000,32.65910000000 ]
+    },
+    "properties": {
+    "CONAME":"Wedgwood Middle School",
+    "STREET":"Wilkie Way",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":104,
+    "SALESVOL":0,
+    "DESC_":"Wedgwood Middle School, Wilkie Way, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36860000000,32.67170000000 ]
+    },
+    "properties": {
+    "CONAME":"St Christopher's Epscpl School",
+    "STREET":"Sw Loop 820",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":61111004,
+    "SIC":"821101",
+    "EMPNUM":6,
+    "SALESVOL":0,
+    "DESC_":"St Christopher's Epscpl School, Sw Loop 820, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35950000000,32.65740000000 ]
+    },
+    "properties": {
+    "CONAME":"South Hills High School",
+    "STREET":"Mccart Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":110,
+    "SALESVOL":0,
+    "DESC_":"South Hills High School, Mccart Ave, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35710000000,32.68630000000 ]
+    },
+    "properties": {
+    "CONAME":"Alice Contereras Elementary",
+    "STREET":"Lubbock Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76115,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":80,
+    "SALESVOL":0,
+    "DESC_":"Alice Contereras Elementary, Lubbock Ave, Fort Worth, Texas, 76115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36190000000,32.66310000000 ]
+    },
+    "properties": {
+    "CONAME":"Harmony Science Academy",
+    "STREET":"Westcreek Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":50,
+    "SALESVOL":0,
+    "DESC_":"Harmony Science Academy, Westcreek Dr, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36000000000,32.67710000000 ]
+    },
+    "properties": {
+    "CONAME":"South Hills Elementary School",
+    "STREET":"Bilglade Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":82,
+    "SALESVOL":0,
+    "DESC_":"South Hills Elementary School, Bilglade Rd, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35950000000,32.65740000000 ]
+    },
+    "properties": {
+    "CONAME":"Trinity Valley School",
+    "STREET":"Mccart Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76133,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Trinity Valley School, Mccart Ave, Fort Worth, Texas, 76133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37960000000,32.67700000000 ]
+    },
+    "properties": {
+    "CONAME":"Wedgwood Academy",
+    "STREET":"Selkirk Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76109,
+    "NAICS":61111010,
+    "SIC":"821107",
+    "EMPNUM":8,
+    "SALESVOL":0,
+    "DESC_":"Wedgwood Academy, Selkirk Dr, Fort Worth, Texas, 76109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.47310000000,32.70510000000 ]
+    },
+    "properties": {
+    "CONAME":"Primary Academy",
+    "STREET":"W Loop 820 S",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76126,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":12,
+    "SALESVOL":0,
+    "DESC_":"Primary Academy, W Loop 820 S, Fort Worth, Texas, 76126"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.47250000000,32.71980000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Isd",
+    "STREET":"Chapin Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":22,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Isd, Chapin Rd, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.46550000000,32.71740000000 ]
+    },
+    "properties": {
+    "CONAME":"Waverly Park Elementary School",
+    "STREET":"Cimmaron Trl",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":80,
+    "SALESVOL":0,
+    "DESC_":"Waverly Park Elementary School, Cimmaron Trl, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.47250000000,32.71980000000 ]
+    },
+    "properties": {
+    "CONAME":"Leonard Middle School",
+    "STREET":"Chapin Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":100,
+    "SALESVOL":0,
+    "DESC_":"Leonard Middle School, Chapin Rd, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.49150000000,32.73180000000 ]
+    },
+    "properties": {
+    "CONAME":"All Saints Episcopal School",
+    "STREET":"Saints Cir",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76108,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":125,
+    "SALESVOL":0,
+    "DESC_":"All Saints Episcopal School, Saints Cir, Fort Worth, Texas, 76108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.51220000000,32.75400000000 ]
+    },
+    "properties": {
+    "CONAME":"Tannahill Intermediate School",
+    "STREET":"American Flyer Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76108,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":98,
+    "SALESVOL":0,
+    "DESC_":"Tannahill Intermediate School, American Flyer Blvd, Fort Worth, Texas, 76108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.49780000000,32.74380000000 ]
+    },
+    "properties": {
+    "CONAME":"Covenant Classical School",
+    "STREET":"Wind Star Way",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76108,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":30,
+    "SALESVOL":0,
+    "DESC_":"Covenant Classical School, Wind Star Way, Fort Worth, Texas, 76108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.49150000000,32.73180000000 ]
+    },
+    "properties": {
+    "CONAME":"Lower School",
+    "STREET":"Saints Cir",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76108,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Lower School, Saints Cir, Fort Worth, Texas, 76108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.50150000000,32.75060000000 ]
+    },
+    "properties": {
+    "CONAME":"Blue Haze Elementary School",
+    "STREET":"Blue Haze Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76108,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Blue Haze Elementary School, Blue Haze Dr, Fort Worth, Texas, 76108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.48000000000,32.78050000000 ]
+    },
+    "properties": {
+    "CONAME":"Brewer High School",
+    "STREET":"W Loop 820 N",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76108,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":130,
+    "SALESVOL":0,
+    "DESC_":"Brewer High School, W Loop 820 N, Fort Worth, Texas, 76108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.48900000000,32.76570000000 ]
+    },
+    "properties": {
+    "CONAME":"North Elementary School",
+    "STREET":"Legacy Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76108,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":90,
+    "SALESVOL":0,
+    "DESC_":"North Elementary School, Legacy Dr, Fort Worth, Texas, 76108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.48000000000,32.78050000000 ]
+    },
+    "properties": {
+    "CONAME":"White Settlement Senior High",
+    "STREET":"W Loop 820 N",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76108,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":200,
+    "SALESVOL":0,
+    "DESC_":"White Settlement Senior High, W Loop 820 N, Fort Worth, Texas, 76108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.51070000000,32.85340000000 ]
+    },
+    "properties": {
+    "CONAME":"Safe Harbor Christian Learning",
+    "STREET":"Jacksboro Hwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76135,
+    "NAICS":61111004,
+    "SIC":"821101",
+    "EMPNUM":15,
+    "SALESVOL":0,
+    "DESC_":"Safe Harbor Christian Learning, Jacksboro Hwy, Fort Worth, Texas, 76135"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.39080000000,32.87780000000 ]
+    },
+    "properties": {
+    "CONAME":"Bryson Elementary School",
+    "STREET":"Old Decatur Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76179,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":75,
+    "SALESVOL":0,
+    "DESC_":"Bryson Elementary School, Old Decatur Rd, Fort Worth, Texas, 76179"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37940000000,32.83110000000 ]
+    },
+    "properties": {
+    "CONAME":"Eagle Mountain-saginaw Schools",
+    "STREET":"Old Decatur Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76179,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Eagle Mountain-saginaw Schools, Old Decatur Rd, Fort Worth, Texas, 76179"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.41320000000,32.87800000000 ]
+    },
+    "properties": {
+    "CONAME":"Boswell High School",
+    "STREET":"W Bailey Boswell Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76179,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":210,
+    "SALESVOL":0,
+    "DESC_":"Boswell High School, W Bailey Boswell Rd, Fort Worth, Texas, 76179"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.40760000000,32.86500000000 ]
+    },
+    "properties": {
+    "CONAME":"Elkins Elementary School",
+    "STREET":"Elkins School Rd",
+    "CITY":"Saginaw",
+    "STATE_NAME":"Texas",
+    "ZIP":76179,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":80,
+    "SALESVOL":0,
+    "DESC_":"Elkins Elementary School, Elkins School Rd, Saginaw, Texas, 76179"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.41120000000,32.85860000000 ]
+    },
+    "properties": {
+    "CONAME":"Creekview Middle School",
+    "STREET":"Bob Hanger St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76179,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":90,
+    "SALESVOL":0,
+    "DESC_":"Creekview Middle School, Bob Hanger St, Fort Worth, Texas, 76179"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38370000000,32.84400000000 ]
+    },
+    "properties": {
+    "CONAME":"Remington Point Elementary",
+    "STREET":"Old Decatur Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76179,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":80,
+    "SALESVOL":0,
+    "DESC_":"Remington Point Elementary, Old Decatur Rd, Fort Worth, Texas, 76179"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.39190000000,32.83250000000 ]
+    },
+    "properties": {
+    "CONAME":"Chisholm Trail High School",
+    "STREET":"Nw College Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76179,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":32,
+    "SALESVOL":0,
+    "DESC_":"Chisholm Trail High School, Nw College Dr, Fort Worth, Texas, 76179"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.42770000000,32.88260000000 ]
+    },
+    "properties": {
+    "CONAME":"Lake Country Christian School",
+    "STREET":"Lake Country Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76179,
+    "NAICS":61111004,
+    "SIC":"821101",
+    "EMPNUM":70,
+    "SALESVOL":0,
+    "DESC_":"Lake Country Christian School, Lake Country Dr, Fort Worth, Texas, 76179"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36690000000,32.88760000000 ]
+    },
+    "properties": {
+    "CONAME":"Prairie Vista Middle School",
+    "STREET":"Comanche Springs Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76131,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":100,
+    "SALESVOL":0,
+    "DESC_":"Prairie Vista Middle School, Comanche Springs Dr, Fort Worth, Texas, 76131"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36530000000,32.88870000000 ]
+    },
+    "properties": {
+    "CONAME":"Comanche Springs Elementary",
+    "STREET":"Comanche Springs Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76131,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":65,
+    "SALESVOL":0,
+    "DESC_":"Comanche Springs Elementary, Comanche Springs Dr, Fort Worth, Texas, 76131"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.40650000000,32.88810000000 ]
+    },
+    "properties": {
+    "CONAME":"Lake Point Elementary School",
+    "STREET":"Park Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76179,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Lake Point Elementary School, Park Dr, Fort Worth, Texas, 76179"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.40850000000,32.86980000000 ]
+    },
+    "properties": {
+    "CONAME":"Elkins Elementary",
+    "STREET":"Wj Boaz Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76179,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":59,
+    "SALESVOL":0,
+    "DESC_":"Elkins Elementary, Wj Boaz Rd, Fort Worth, Texas, 76179"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.40300000000,32.85200000000 ]
+    },
+    "properties": {
+    "CONAME":"Parkview Elementary School",
+    "STREET":"Crystal Lake Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76179,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":70,
+    "SALESVOL":0,
+    "DESC_":"Parkview Elementary School, Crystal Lake Dr, Fort Worth, Texas, 76179"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.41620000000,32.84480000000 ]
+    },
+    "properties": {
+    "CONAME":"Ed Willkie Middle School",
+    "STREET":"Texas Shiner Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76179,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Ed Willkie Middle School, Texas Shiner Dr, Fort Worth, Texas, 76179"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37940000000,32.83180000000 ]
+    },
+    "properties": {
+    "CONAME":"Wayside Middle School",
+    "STREET":"Old Decatur Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76179,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":70,
+    "SALESVOL":0,
+    "DESC_":"Wayside Middle School, Old Decatur Rd, Fort Worth, Texas, 76179"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.41370000000,32.83640000000 ]
+    },
+    "properties": {
+    "CONAME":"Greenfield Elementary School",
+    "STREET":"Ten Mile Bridge Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76135,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":70,
+    "SALESVOL":0,
+    "DESC_":"Greenfield Elementary School, Ten Mile Bridge Rd, Fort Worth, Texas, 76135"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.40750000000,32.86400000000 ]
+    },
+    "properties": {
+    "CONAME":"Elmer C Watson Learning Ctr",
+    "STREET":"Hereford Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76179,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":18,
+    "SALESVOL":0,
+    "DESC_":"Elmer C Watson Learning Ctr, Hereford Dr, Fort Worth, Texas, 76179"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38240000000,32.93790000000 ]
+    },
+    "properties": {
+    "CONAME":"V R Eaton High School",
+    "STREET":"Eagle Blvd",
+    "CITY":"Haslet",
+    "STATE_NAME":"Texas",
+    "ZIP":76052,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"V R Eaton High School, Eagle Blvd, Haslet, Texas, 76052"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37330000000,32.91680000000 ]
+    },
+    "properties": {
+    "CONAME":"Sonny & Alegra Nance Elem",
+    "STREET":"Tierra Vista Way",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76131,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":64,
+    "SALESVOL":0,
+    "DESC_":"Sonny & Alegra Nance Elem, Tierra Vista Way, Fort Worth, Texas, 76131"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37330000000,32.91680000000 ]
+    },
+    "properties": {
+    "CONAME":"Northwest Isd",
+    "STREET":"Tierra Vista Way",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76131,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":22,
+    "SALESVOL":0,
+    "DESC_":"Northwest Isd, Tierra Vista Way, Fort Worth, Texas, 76131"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36600000000,32.98950000000 ]
+    },
+    "properties": {
+    "CONAME":"Jc Thompson Elementary School",
+    "STREET":"E Wishbone Ln",
+    "CITY":"Haslet",
+    "STATE_NAME":"Texas",
+    "ZIP":76052,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":59,
+    "SALESVOL":0,
+    "DESC_":"Jc Thompson Elementary School, E Wishbone Ln, Haslet, Texas, 76052"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38580000000,32.98270000000 ]
+    },
+    "properties": {
+    "CONAME":"Sendera Ranch Elementary Schl",
+    "STREET":"Diamond Back Ln",
+    "CITY":"Haslet",
+    "STATE_NAME":"Texas",
+    "ZIP":76052,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":55,
+    "SALESVOL":0,
+    "DESC_":"Sendera Ranch Elementary Schl, Diamond Back Ln, Haslet, Texas, 76052"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38750000000,32.76900000000 ]
+    },
+    "properties": {
+    "CONAME":"A V Cato Elementary School",
+    "STREET":"Barbara Rd",
+    "CITY":"River Oaks",
+    "STATE_NAME":"Texas",
+    "ZIP":76114,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":50,
+    "SALESVOL":0,
+    "DESC_":"A V Cato Elementary School, Barbara Rd, River Oaks, Texas, 76114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37020000000,32.78480000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Isd",
+    "STREET":"Mckinley Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76164,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":22,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Isd, Mckinley Ave, Fort Worth, Texas, 76164"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37870000000,32.78900000000 ]
+    },
+    "properties": {
+    "CONAME":"C3 Academy Llc",
+    "STREET":"Ephriham Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76164,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":3,
+    "SALESVOL":0,
+    "DESC_":"C3 Academy Llc, Ephriham Ave, Fort Worth, Texas, 76164"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36040000000,32.76020000000 ]
+    },
+    "properties": {
+    "CONAME":"Ft Worth Isd Board-education",
+    "STREET":"N University Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":22,
+    "SALESVOL":0,
+    "DESC_":"Ft Worth Isd Board-education, N University Dr, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37130000000,32.76040000000 ]
+    },
+    "properties": {
+    "CONAME":"Jo Kelly School",
+    "STREET":"N Bailey Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":50,
+    "SALESVOL":0,
+    "DESC_":"Jo Kelly School, N Bailey Ave, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35740000000,32.78170000000 ]
+    },
+    "properties": {
+    "CONAME":"J P Elder Middle School",
+    "STREET":"Nw 21st St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76164,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":130,
+    "SALESVOL":0,
+    "DESC_":"J P Elder Middle School, Nw 21st St, Fort Worth, Texas, 76164"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35910000000,32.78290000000 ]
+    },
+    "properties": {
+    "CONAME":"Manuel Jara Elementary School",
+    "STREET":"Lincoln Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76164,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":70,
+    "SALESVOL":0,
+    "DESC_":"Manuel Jara Elementary School, Lincoln Ave, Fort Worth, Texas, 76164"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37020000000,32.78480000000 ]
+    },
+    "properties": {
+    "CONAME":"Northside High School",
+    "STREET":"Mckinley Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76164,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":187,
+    "SALESVOL":0,
+    "DESC_":"Northside High School, Mckinley Ave, Fort Worth, Texas, 76164"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36040000000,32.76020000000 ]
+    },
+    "properties": {
+    "CONAME":"Ft Worth Independent Schl Dist",
+    "STREET":"N University Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":61111018,
+    "SIC":"821120",
+    "EMPNUM":600,
+    "SALESVOL":0,
+    "DESC_":"Ft Worth Independent Schl Dist, N University Dr, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.39800000000,32.81060000000 ]
+    },
+    "properties": {
+    "CONAME":"Lake Worth Independent School",
+    "STREET":"Santos Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76106,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":22,
+    "SALESVOL":0,
+    "DESC_":"Lake Worth Independent School, Santos Dr, Fort Worth, Texas, 76106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36670000000,32.80000000000 ]
+    },
+    "properties": {
+    "CONAME":"Christian Learning Ctr",
+    "STREET":"Prairie Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76106,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Christian Learning Ctr, Prairie Ave, Fort Worth, Texas, 76106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38390000000,32.80240000000 ]
+    },
+    "properties": {
+    "CONAME":"W J Turner Elementary School",
+    "STREET":"Nw 26th St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76106,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":75,
+    "SALESVOL":0,
+    "DESC_":"W J Turner Elementary School, Nw 26th St, Fort Worth, Texas, 76106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36030000000,32.80350000000 ]
+    },
+    "properties": {
+    "CONAME":"Kirkpatrick Middle School",
+    "STREET":"Refugio Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76106,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":60,
+    "SALESVOL":0,
+    "DESC_":"Kirkpatrick Middle School, Refugio Ave, Fort Worth, Texas, 76106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.39800000000,32.81060000000 ]
+    },
+    "properties": {
+    "CONAME":"Lucyle Collins Middle School",
+    "STREET":"Santos Dr",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76106,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":48,
+    "SALESVOL":0,
+    "DESC_":"Lucyle Collins Middle School, Santos Dr, Fort Worth, Texas, 76106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36900000000,32.79270000000 ]
+    },
+    "properties": {
+    "CONAME":"Sam Rosen Elementary School",
+    "STREET":"Roosevelt Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76164,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":65,
+    "SALESVOL":0,
+    "DESC_":"Sam Rosen Elementary School, Roosevelt Ave, Fort Worth, Texas, 76164"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.48000000000,32.78050000000 ]
+    },
+    "properties": {
+    "CONAME":"Ninth Grade Ctr",
+    "STREET":"W Loop 820 N",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76108,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":35,
+    "SALESVOL":0,
+    "DESC_":"Ninth Grade Ctr, W Loop 820 N, Fort Worth, Texas, 76108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.47580000000,32.77410000000 ]
+    },
+    "properties": {
+    "CONAME":"Anderson School Gifted Talent",
+    "STREET":"Po Box 150009",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76108,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":13,
+    "SALESVOL":0,
+    "DESC_":"Anderson School Gifted Talent, Po Box 150009, Fort Worth, Texas, 76108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.47030000000,32.78010000000 ]
+    },
+    "properties": {
+    "CONAME":"Highpoint Academy",
+    "STREET":"N Jim Wright Fwy",
+    "CITY":"White Settlement",
+    "STATE_NAME":"Texas",
+    "ZIP":76108,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":25,
+    "SALESVOL":0,
+    "DESC_":"Highpoint Academy, N Jim Wright Fwy, White Settlement, Texas, 76108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.45130000000,32.70220000000 ]
+    },
+    "properties": {
+    "CONAME":"Middle Level Learning Ctr",
+    "STREET":"Benbrook Hwy",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":51,
+    "SALESVOL":0,
+    "DESC_":"Middle Level Learning Ctr, Benbrook Hwy, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.44350000000,32.71300000000 ]
+    },
+    "properties": {
+    "CONAME":"Luella Merrett Elementary Schl",
+    "STREET":"Kermit Ave",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":67,
+    "SALESVOL":0,
+    "DESC_":"Luella Merrett Elementary Schl, Kermit Ave, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.43760000000,32.71960000000 ]
+    },
+    "properties": {
+    "CONAME":"International Newcomer Academy",
+    "STREET":"Camp Bowie Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":80,
+    "SALESVOL":0,
+    "DESC_":"International Newcomer Academy, Camp Bowie Blvd, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.43760000000,32.71960000000 ]
+    },
+    "properties": {
+    "CONAME":"Homebound School",
+    "STREET":"Camp Bowie Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":18,
+    "SALESVOL":0,
+    "DESC_":"Homebound School, Camp Bowie Blvd, Fort Worth, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.45150000000,32.70680000000 ]
+    },
+    "properties": {
+    "CONAME":"Redeemer Lutheran School",
+    "STREET":"Williams Rd",
+    "CITY":"Benbrook",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":14,
+    "SALESVOL":0,
+    "DESC_":"Redeemer Lutheran School, Williams Rd, Benbrook, Texas, 76116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.43760000000,32.71960000000 ]
+    },
+    "properties": {
+    "CONAME":"Applied Learning Academy",
+    "STREET":"Camp Bowie Blvd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76116,
+    "NAICS":61111007,
+    "SIC":"821103",
+    "EMPNUM":30,
+    "SALESVOL":0,
+    "DESC_":"Applied Learning Academy, Camp Bowie Blvd, Fort Worth, Texas, 76116"
+    }
+  }
+]
+}

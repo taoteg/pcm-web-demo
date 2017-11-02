@@ -1,0 +1,138 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34390000000,32.66110000000 ]
+    },
+    "properties": {
+    "CONAME":"Edgecliff Village Fire Dept",
+    "STREET":"Edgecliff Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76134,
+    "NAICS":92216003,
+    "SIC":922404,
+    "EMPNUM":20,
+    "SALESVOL":0,
+    "DESC_":"Edgecliff Village Fire Dept, Edgecliff Rd, Fort Worth, Texas, 76134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34390000000,32.66110000000 ]
+    },
+    "properties": {
+    "CONAME":"Edgecliff Fire Station",
+    "STREET":"Edgecliff Rd",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76134,
+    "NAICS":92216003,
+    "SIC":922404,
+    "EMPNUM":20,
+    "SALESVOL":0,
+    "DESC_":"Edgecliff Fire Station, Edgecliff Rd, Fort Worth, Texas, 76134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.34250000000,32.76150000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Fire Training Acad",
+    "STREET":"Calvert St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76107,
+    "NAICS":92216003,
+    "SIC":922404,
+    "EMPNUM":20,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Fire Training Acad, Calvert St, Fort Worth, Texas, 76107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.30530000000,32.80000000000 ]
+    },
+    "properties": {
+    "CONAME":"Tarrant County Fire Marshall",
+    "STREET":"Premier St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76111,
+    "NAICS":92216005,
+    "SIC":922405,
+    "EMPNUM":4,
+    "SALESVOL":0,
+    "DESC_":"Tarrant County Fire Marshall, Premier St, Fort Worth, Texas, 76111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32100000000,32.82650000000 ]
+    },
+    "properties": {
+    "CONAME":"First Response Search & Rescue",
+    "STREET":"Po Box 162244",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76161,
+    "NAICS":92216003,
+    "SIC":922404,
+    "EMPNUM":20,
+    "SALESVOL":0,
+    "DESC_":"First Response Search & Rescue, Po Box 162244, Fort Worth, Texas, 76161"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33510000000,32.74890000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth City Fire Invstgtns",
+    "STREET":"Texas St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":92216003,
+    "SIC":922404,
+    "EMPNUM":20,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth City Fire Invstgtns, Texas St, Fort Worth, Texas, 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.33090000000,32.75040000000 ]
+    },
+    "properties": {
+    "CONAME":"Fort Worth Fire Dept",
+    "STREET":"Throckmorton St",
+    "CITY":"Fort Worth",
+    "STATE_NAME":"Texas",
+    "ZIP":76102,
+    "NAICS":92216003,
+    "SIC":922404,
+    "EMPNUM":872,
+    "SALESVOL":0,
+    "DESC_":"Fort Worth Fire Dept, Throckmorton St, Fort Worth, Texas, 76102"
+    }
+  }
+]
+}

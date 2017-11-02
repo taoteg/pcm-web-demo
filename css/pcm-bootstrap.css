@@ -1,0 +1,89 @@
+/*Overrides Bootstrap*/
+
+/*.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}*/
+
+/* Ordered List */
+ol {
+	counter-reset:li; /* Initiate a counter */
+    margin-top: 1rem;
+	margin-left:0; /* Remove the default left margin */
+	padding-left:0; /* Remove the default left padding */
+}
+ol > li {
+	position:relative; /* Create a positioning context */
+	margin:0 0 6px 2em; /* Give each list item a left margin to make room for the numbers */
+	padding:4px 8px; /* Add some spacing around the content */
+	list-style:none; /* Disable the normal item numbering */
+	border-top:2px solid #333;
+	/*background:#f6f6f6;*/
+}
+ol > li:before {
+	content:counter(li); /* Use the counter as content */
+	counter-increment:li; /* Increment the counter by 1 */
+	/* Position and style the number */
+	position:absolute;
+	top:-2px;
+	left:-2em;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	box-sizing:border-box;
+	width:2em;
+	/* Some space between the number and the content in browsers that support
+	   generated content but not positioning it (Camino 2 is one example) */
+	margin-right:8px;
+	padding:4px;
+	border-top:2px solid #333;
+	color:#fff;
+	background:#333;
+	font-weight:bold;
+	font-family:"Helvetica Neue", Arial, sans-serif;
+	text-align:center;
+}
+li ol,
+li ul {margin-top:6px;}
+ol ol li:last-child {margin-bottom:0;}
+
+
+.pcm-nav-brand {
+    font-weight: 900 !important;
+    color: var(--color-cooks-07) !important;
+}
+
+body > nav.navbar-pcm {
+    border-bottom: 2px solid var(--color-cooks-04); !important
+}
+
+.about-item {
+    margin: 0.5rem 0 1rem 0;
+    padding: 0 1rem 1rem;
+    background: #CCCCCC;
+    border: 1px solid #333333;
+    /*border-radius: 9px;*/
+}
+
+.about-pcm {
+    background: var(--color-cooks-09-washed);
+}
+
+.about-cooks {
+    background: var(--color-cooks-08-washed);
+}
+.about-tacc {
+    background: var(--color-cooks-02);
+}
+.about-contact {
+    background: var(--color-grey-light);
+}
+
+.map-stuff {
+	font-size: 20rem;
+	color: #939;
+}
